@@ -1,97 +1,97 @@
-id,type,name
-Paper1,Paper,2403.08822
-Technology1,Technology,LoRA-SP
-Technology3,Technology,NLP
-Method1,Method,Streamlined Partial Parameter Adaptation for Resource-Efficient Fine-Tuning of Large Language Models
-Method2,Method,LoRA-SP
-Method4,Method,full-parameter fine-tuning
-Paper2,Paper,2305.04265
-Paper3,Paper,2109.07169
-Technology5,Technology,Variational Autoencoder
-Method6,Method,Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders
-Method7,Method,Variational Autoencoder
-Paper4,Paper,2405.00377
-Technology6,Technology,tkinter GUI & tableau dashboard
-Technology7,Technology,Python
-Technology8,Technology,Tableau
-Technology9,Technology,Tkinter
-Technology10,Technology,Tableauf
-Method8,Method,tkinter GUI & tableau dashboard
-Method9,Method,Python
-Task1,Task,Thread review sentimental analysis
-Paper5,Paper,2106.02490
-Method10,Method,Language Model Metrics and Procrustes Analysis for Improved Vector Transformation of NLP Embeddings
-Task2,Task,Language Model Metrics and Procrustes Analysis for Improved Vector Transformation of NLP Embeddings
-Paper6,Paper,2410.03531
-Technology11,Technology,MARE
-Method11,Method,Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction
-Method12,Method,MARE
-Task3,Task,Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction
-Task4,Task,MARE
-Paper7,Paper,2403.15938
-Task5,Task,natural language processing
-Paper8,Paper,2502.02017
-Technology12,Technology,CV
-Technology13,Technology,MDGFM
-Method13,Method,CV
-Method14,Method,MDGFM
-Task6,Task,Robust Knowledge Transfer via Topology Alignment
-Paper9,Paper,2108.11810
-Task7,Task,ToM-Diary
-Paper10,Paper,2405.19164
-Technology15,Technology,BM25
-Technology16,Technology,AI
-Technology17,Technology,DISCOG
-Technology18,Technology,DISCOvery Graph
-Method15,Method,natural language processing
-Method16,Method,AI
-Method17,Method,BM25
-Task8,Task,F1-score
-Paper11,Paper,1804.06440
-Method18,Method,"ree neural models based on CNNs, LSTM-RNNs, and their combination, to distinguish between language samples from AD and control patients. We achieve a new independent benchmark accuracy for the AD classification task. More importantly, we next interpret what these neural models have learned about the linguistic characteristics of AD patients, via analysis based on activation clustering and first-derivative saliency techniques"
-Task9,Task,Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models
-Task10,Task,AD classification
-Paper12,Paper,1505.07599
-Method19,Method,POS Tagging
-Method20,Method,ndividual Chinese word segmentation
-Task11,Task,Chinese Word Segmentation and POS Tagging for Micro-blog Texts
-Task12,Task,POS Tagging
-Paper13,Paper,2406.19301
-Technology20,Technology,MCNC
-Method21,Method,Manifold Constrained Network Compression
-Method22,Method,MCNC
-Method23,Method,QLoRA
-Method24,Method,LoRA
-Task13,Task,Manifold Constrained Network Compression
-Paper14,Paper,2310.19522
-Technology23,Technology,ImageNet
-Task14,Task,medical image classification
-Paper15,Paper,2201.08542
-Method26,Method,Knowledge Distillation and Pruning
-Method27,Method,model compression
-Paper16,Paper,1509.02301
-Method28,Method,Probabilistic Bag-Of-Hyperlinks Model for Entity Linking
-Method29,Method,loopy belief propagation
-Task15,Task,entity linking
-Paper17,Paper,2206.05042
-Technology25,Technology,Twitter
-Technology26,Technology,TF-IDF
-Technology27,Technology,Bag of Words
-Method30,Method,word embedding
-Method31,Method,Bag of Words
-Method32,Method,TF-IDF
-Paper18,Paper,2101.12015
-Method33,Method,Frequently Asked Questions
-Method34,Method,Google BERT multilingual
-Task16,Task,Frequently Asked Questions
-Paper19,Paper,2206.11078
-Technology29,Technology,Traffic-Twitter Transformer
-Technology31,Technology,Nature Language
-Method35,Method,Traffic-Twitter Transformer
-Task17,Task,Traffic-Twitter Transformer: A Nature Language Processing-joined Framework For Network-wide Traffic Forecasting
-Paper20,Paper,2305.18476
-Technology33,Technology,EVP
-Method36,Method,Explicit Visual Prompting
-Method37,Method,EVP
-Method38,Method,full fine-tuning
-Task18,Task,Explicit Visual Prompting
+type,id,name
+Paper,2403.08822,LoRA-SP: Streamlined Partial Parameter Adaptation for Resource-Efficient Fine-Tuning of Large Language Models
+Technology,Technology_LoRA-SP,LoRA-SP
+Technology,Technology_NLP,NLP
+Method,Method_Streamlined_Partial_Parameter_Adaptation_for_Resource-Efficient_Fine-Tuning_of_Large_Language_Models,Streamlined Partial Parameter Adaptation for Resource-Efficient Fine-Tuning of Large Language Models
+Method,Method_LoRA-SP,LoRA-SP
+Method,Method_full-parameter_fine-tuning,full-parameter fine-tuning
+Paper,2305.04265,An Investigation on Word Embedding Offset Clustering as Relationship Classification
+Paper,2109.07169,Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders
+Technology,Technology_Variational_Autoencoder,Variational Autoencoder
+Method,Method_Disentangling_Generative_Factors_in_Natural_Language_with_Discrete_Variational_Autoencoders,Disentangling Generative Factors in Natural Language with Discrete Variational Autoencoders
+Method,Method_Variational_Autoencoder,Variational Autoencoder
+Paper,2405.00377,Thread review sentimental analysis with tkinter GUI & tableau dashboard
+Technology,Technology_tkinter_GUI_&_tableau_dashboard,tkinter GUI & tableau dashboard
+Technology,Technology_Python,Python
+Technology,Technology_Tableau,Tableau
+Technology,Technology_Tkinter,Tkinter
+Technology,Technology_Tableauf,Tableauf
+Method,Method_tkinter_GUI_&_tableau_dashboard,tkinter GUI & tableau dashboard
+Method,Method_Python,Python
+Task,Task_Thread_review_sentimental_analysis,Thread review sentimental analysis
+Paper,2106.02490,Language Model Metrics and Procrustes Analysis for Improved Vector Transformation of NLP Embeddings
+Method,Method_Language_Model_Metrics_and_Procrustes_Analysis_for_Improved_Vector_Transformation_of_NLP_Embeddings,Language Model Metrics and Procrustes Analysis for Improved Vector Transformation of NLP Embeddings
+Task,Task_Language_Model_Metrics_and_Procrustes_Analysis_for_Improved_Vector_Transformation_of_NLP_Embeddings,Language Model Metrics and Procrustes Analysis for Improved Vector Transformation of NLP Embeddings
+Paper,2410.03531,MARE: Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction
+Technology,Technology_MARE,MARE
+Method,Method_Multi-Aspect_Rationale_Extractor_on_Unsupervised_Rationale_Extraction,Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction
+Method,Method_MARE,MARE
+Task,Task_Multi-Aspect_Rationale_Extractor_on_Unsupervised_Rationale_Extraction,Multi-Aspect Rationale Extractor on Unsupervised Rationale Extraction
+Task,Task_MARE,MARE
+Paper,2403.15938,LlamBERT: Large-scale low-cost data annotation in NLP
+Task,Task_natural_language_processing,natural language processing
+Paper,2502.02017,Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment
+Technology,Technology_CV,CV
+Technology,Technology_MDGFM,MDGFM
+Method,Method_CV,CV
+Method,Method_MDGFM,MDGFM
+Task,Task_Robust_Knowledge_Transfer_via_Topology_Alignment,Robust Knowledge Transfer via Topology Alignment
+Paper,2108.11810,A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts
+Task,Task_ToM-Diary,ToM-Diary
+Paper,2405.19164,Learning from Litigation: Graphs and LLMs for Retrieval and Reasoning in eDiscovery
+Technology,Technology_BM25,BM25
+Technology,Technology_AI,AI
+Technology,Technology_DISCOG,DISCOG
+Technology,Technology_DISCOvery_Graph,DISCOvery Graph
+Method,Method_natural_language_processing,natural language processing
+Method,Method_AI,AI
+Method,Method_BM25,BM25
+Task,Task_F1-score,F1-score
+Paper,1804.06440,Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models
+Method,"Method_ree_neural_models_based_on_CNNs,_LSTM-RNNs,_and_their_combination,_to_distinguish_between_language_samples_from_AD_and_control_patients._We_achieve_a_new_independent_benchmark_accuracy_for_the_AD_classification_task._More_importantly,_we_next_interpret_what_these_neural_models_have_learned_about_the_linguistic_characteristics_of_AD_patients,_via_analysis_based_on_activation_clustering_and_first-derivative_saliency_techniques","ree neural models based on CNNs, LSTM-RNNs, and their combination, to distinguish between language samples from AD and control patients. We achieve a new independent benchmark accuracy for the AD classification task. More importantly, we next interpret what these neural models have learned about the linguistic characteristics of AD patients, via analysis based on activation clustering and first-derivative saliency techniques"
+Task,Task_Detecting_Linguistic_Characteristics_of_Alzheimer's_Dementia_by_Interpreting_Neural_Models,Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models
+Task,Task_AD_classification,AD classification
+Paper,1505.07599,Overview of the NLPCC 2015 Shared Task: Chinese Word Segmentation and POS Tagging for Micro-blog Texts
+Method,Method_POS_Tagging,POS Tagging
+Method,Method_ndividual_Chinese_word_segmentation,ndividual Chinese word segmentation
+Task,Task_Chinese_Word_Segmentation_and_POS_Tagging_for_Micro-blog_Texts,Chinese Word Segmentation and POS Tagging for Micro-blog Texts
+Task,Task_POS_Tagging,POS Tagging
+Paper,2406.19301,MCNC: Manifold Constrained Network Compression
+Technology,Technology_MCNC,MCNC
+Method,Method_Manifold_Constrained_Network_Compression,Manifold Constrained Network Compression
+Method,Method_MCNC,MCNC
+Method,Method_QLoRA,QLoRA
+Method,Method_LoRA,LoRA
+Task,Task_Manifold_Constrained_Network_Compression,Manifold Constrained Network Compression
+Paper,2310.19522,Are Natural Domain Foundation Models Useful for Medical Image Classification?
+Technology,Technology_ImageNet,ImageNet
+Task,Task_medical_image_classification,medical image classification
+Paper,2201.08542,Can Model Compression Improve NLP Fairness
+Method,Method_Knowledge_Distillation_and_Pruning,Knowledge Distillation and Pruning
+Method,Method_model_compression,model compression
+Paper,1509.02301,Probabilistic Bag-Of-Hyperlinks Model for Entity Linking
+Method,Method_Probabilistic_Bag-Of-Hyperlinks_Model_for_Entity_Linking,Probabilistic Bag-Of-Hyperlinks Model for Entity Linking
+Method,Method_loopy_belief_propagation,loopy belief propagation
+Task,Task_entity_linking,entity linking
+Paper,2206.05042,Sentiment analysis on electricity twitter posts
+Technology,Technology_Twitter,Twitter
+Technology,Technology_TF-IDF,TF-IDF
+Technology,Technology_Bag_of_Words,Bag of Words
+Method,Method_word_embedding,word embedding
+Method,Method_Bag_of_Words,Bag of Words
+Method,Method_TF-IDF,TF-IDF
+Paper,2101.12015,BERTa\'u: Ita\'u BERT for digital customer service
+Method,Method_Frequently_Asked_Questions,Frequently Asked Questions
+Method,Method_Google_BERT_multilingual,Google BERT multilingual
+Task,Task_Frequently_Asked_Questions,Frequently Asked Questions
+Paper,2206.11078,Traffic-Twitter Transformer: A Nature Language Processing-joined Framework For Network-wide Traffic Forecasting
+Technology,Technology_Traffic-Twitter_Transformer,Traffic-Twitter Transformer
+Technology,Technology_Nature_Language,Nature Language
+Method,Method_Traffic-Twitter_Transformer,Traffic-Twitter Transformer
+Task,Task_Traffic-Twitter_Transformer:_A_Nature_Language_Processing-joined_Framework_For_Network-wide_Traffic_Forecasting,Traffic-Twitter Transformer: A Nature Language Processing-joined Framework For Network-wide Traffic Forecasting
+Paper,2305.18476,Explicit Visual Prompting for Universal Foreground Segmentations
+Technology,Technology_EVP,EVP
+Method,Method_Explicit_Visual_Prompting,Explicit Visual Prompting
+Method,Method_EVP,EVP
+Method,Method_full_fine-tuning,full fine-tuning
+Task,Task_Explicit_Visual_Prompting,Explicit Visual Prompting
