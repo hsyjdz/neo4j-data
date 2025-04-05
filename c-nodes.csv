@@ -1,0 +1,173 @@
+id,type,name,time
+1803.02839,Paper,The emergent algebraic structure of RNNs and embeddings in NLP,2018
+1807.00914,Paper,Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing,2018
+1901.05066,Paper,Investigating Antigram Behaviour using Distributional Semantics,2019
+1904.08010,Paper,How to define co-occurrence in different domains of study?,2019
+1910.03771,Paper,HuggingFace's Transformers: State-of-the-art Natural Language Processing,2019
+1911.01625,Paper,Sparse Lifting of Dense Vectors: Unifying Word and Sentence Representations,2019
+2002.03056,Paper,autoNLP: NLP Feature Recommendations for Text Analytics Applications,2020
+2004.01970,Paper,BAE: BERT-based Adversarial Examples for Text Classification,2020
+2007.00601,Paper,Emergence of polarized ideological opinions in multidimensional topic spaces,2020
+2007.16007,Paper,Exploring Swedish & English fastText Embeddings for NER with the Transformer,2020
+2010.00357,Paper,Detecting White Supremacist Hate Speech using Domain Specific Word Embedding with Deep Learning and BERT,2020
+2010.00462,Paper,A survey on natural language processing (nlp) and applications in insurance,2020
+2012.15489,Paper,TransRegex: Multi-modal Regular Expression Synthesis by Generate-and-Repair,2020
+2106.06823,Paper,Prompting Contrastive Explanations for Commonsense Reasoning Tasks,2021
+2107.09768,Paper,Checkovid: A COVID-19 misinformation detection system on Twitter using network and content mining perspectives,2021
+2109.09393,Paper,Modality and Negation in Event Extraction,2021
+2111.13827,Paper,Natural Language Processing in-and-for Design Research,2021
+2112.00566,Paper,"NLP Research and Resources at DaSciM, Ecole Polytechnique",2021
+2202.12814,Paper,The Reality of Multi-Lingual Machine Translation,2022
+2203.06228,Paper,CoDA21: Evaluating Language Understanding Capabilities of NLP Models With Context-Definition Alignment,2022
+2203.13491,Paper,Striking a Balance: Alleviating Inconsistency in Pre-trained Models for Symmetric Classification Tasks,2022
+2204.06085,Paper,Finding Trolls Under Bridges: Preliminary Work on a Motif Detector,2022
+2207.01538,Paper,Consistency of Neural Networks with Regularization,2022
+2209.12226,Paper,Re-contextualizing Fairness in NLP: The Case of India,2022
+2210.08331,Paper,Combination Of Convolution Neural Networks And Deep Neural Networks For Fake News Detection,2022
+2210.13181,Paper,"The Better Your Syntax, the Better Your Semantics? Probing Pretrained Language Models for the English Comparative Correlative",2022
+2301.01620,Paper,Anonymous Pattern Molecular Fingerprint and its Applications on Property Identification,2023
+2302.08626,Paper,Role of Bias Terms in Dot-Product Attention,2023
+2304.04029,Paper,Bipol: A Novel Multi-Axes Bias Evaluation Metric with Explainability for NLP,2023
+2305.05711,Paper,CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors,2023
+2305.17826,Paper,NOTABLE: Transferable Backdoor Attacks Against Prompt-based NLP Models,2023
+2306.08058,Paper,Few-shot learning for sentence pair classification and its applications in software engineering,2023
+2307.11550,Paper,YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation,2023
+2309.07430,Paper,Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization,2023
+2310.01080,Paper,Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph,2023
+2312.01272,Paper,Multiscale Topology in Interactomic Network: From Transcriptome to Antiaddiction Drug Repurposing,2023
+2401.01820,Paper,"The emission of soft-photons and the LBK theorem, revisited",2024
+2403.12071,Paper,Tailoring Education with GenAI: A New Horizon in Lesson Planning,2024
+2404.02053,Paper,BERTopic-Driven Stock Market Predictions: Unraveling Sentiment Insights,2024
+2407.06089,Paper,"Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models",2024
+2407.06204,Paper,A Survey on Mixture of Experts,2024
+2407.08143,Paper,CommSense: A Wearable Sensing Computational Framework for Evaluating Patient-Clinician Interactions,2024
+2409.02725,Paper,Pre-training data selection for biomedical domain adaptation using journal impact metrics,2024
+2409.07440,Paper,SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories,2024
+2409.13232,Paper,Relationship between Uncertainty in DNNs and Adversarial Attacks,2024
+2410.07239,Paper,Locally Measuring Cross-lingual Lexical Alignment: A Domain and Word Level Perspective,2024
+2410.21723,Paper,Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection,2024
+2412.02113,Paper,Trust & Safety of LLMs and LLMs in Trust & Safety,2024
+2501.07641,Paper,GPT as a Monte Carlo Language Tree: A Probabilistic Perspective,2025
+2502.17017,Paper,Quantifying Logical Consistency in Transformers via Query-Key Alignment,2025
+Method_AI-driven,Method,AI-driven,2024
+Method_Adapted_Large_Language_Models,Method,Adapted Large Language Models,2023
+Method_Anonymous_Pattern_Molecular_Fingerprint_and_its_Applications_on_Property_Identification,Method,Anonymous Pattern Molecular Fingerprint and its Applications on Property Identification,2023
+Method_BERTopic,Method,BERTopic,2024
+Method_Common_Crawl,Method,Common Crawl,2020
+Method_Context-Definition_Alignment,Method,Context-Definition Alignment,2022
+Method_Distributional_Semantics,Method,Distributional Semantics,2019
+Method_Domain_Specific_Word,Method,Domain Specific Word,2020
+Method_Domain_adaptation,Method,Domain adaptation,2024
+Method_Fact-checking,Method,Fact-checking,2021
+Method_GloVe_embeddings,Method,GloVe embeddings,2019
+Method_LLMs,Method,LLMs,2024
+Method_ML,Method,ML,2024
+Method_Machine_Learning,Method,Machine Learning,2024
+Method_Modality_and_Negation_in_Event_Extraction,Method,Modality and Negation in Event Extraction,2021
+Method_Molecular_fingerprints,Method,Molecular fingerprints,2023
+Method_Multi-modal_Regular_Expression_Synthesis_by_Generate-and-Repair,Method,Multi-modal Regular Expression Synthesis by Generate-and-Repair,2020
+Method_NLP,Method,NLP,2024
+"Method_NLP-based_synthesis_and_regex_repair._We_evaluate_TransRegex_with_ten_relevant_state-of-the-art_tools_on_three_publicly_available_datasets._The_evaluation_results_demonstrate_that_the_accuracy_of_our_TransRegex_is_17.4%,_35.8%_and_38.9%_higher_than_that_of_NLP-based_approaches_on_the_three_datasets,_respectively._Furthermore,_TransRegex_can_achieve_higher_accuracy_than_the_state-of-the-art_multi-modal_techniques",Method,"NLP-based synthesis and regex repair. We evaluate TransRegex with ten relevant state-of-the-art tools on three publicly available datasets. The evaluation results demonstrate that the accuracy of our TransRegex is 17.4%, 35.8% and 38.9% higher than that of NLP-based approaches on the three datasets, respectively. Furthermore, TransRegex can achieve higher accuracy than the state-of-the-art multi-modal techniques",2020
+Method_NLP_techniques,Method,NLP techniques,2021
+Method_Natural_Language_Processing,Method,Natural Language Processing,2024
+Method_Natural_Language_Processing_technique,Method,Natural Language Processing technique,2023
+Method_PET,Method,PET,2023
+Method_PLMs,Method,PLMs,2021
+Method_Pre-training_data_selection_for_biomedical_domain_adaptation_using_journal_impact_metrics,Method,Pre-training data selection for biomedical domain adaptation using journal impact metrics,2024
+Method_Quantifying_Logical_Consistency_in_Transformers_via_Query-Key_Alignment,Method,Quantifying Logical Consistency in Transformers via Query-Key Alignment,2025
+Method_Question_Answering,Method,Question Answering,2021
+Method_SetFit,Method,SetFit,2023
+Method_Sparse_Lifting_of_Dense_Vectors,Method,Sparse Lifting of Dense Vectors,2019
+Method_Text,Method,Text,2020
+Method_The_method_of_sieves,Method,The method of sieves,2022
+Method_Transcriptome,Method,Transcriptome,2023
+Method_YOLOPose,Method,YOLOPose,2023
+Method_You_Only_Look_Once_Pose_estimation,Method,You Only Look Once Pose estimation,2023
+Method_automatic_and_human_evaluations,Method,automatic and human evaluations,2020
+Method_computer_vision,Method,computer vision,2022
+Method_deep_learning,Method,deep learning,2020
+Method_domain-specific_embeddings,Method,domain-specific embeddings,2020
+Method_e_mixture_of_experts,Method,e mixture of experts,2024
+Method_ene_expression_analysis,Method,ene expression analysis,2023
+Method_fastText_Embeddings_for_NER_with_the_Transformer,Method,fastText Embeddings for NER with the Transformer,2020
+Method_fine-tuned_LLMs,Method,fine-tuned LLMs,2024
+Method_machine,Method,machine,2021
+Method_machine_learning_algorithms,Method,machine learning algorithms,2018
+Method_manually,Method,manually,2022
+Method_mpt_injection,Method,mpt injection,2024
+Method_natural_language_processing,Method,natural language processing,2022
+Method_natural_language_processing_(NLP)-based_embeddings_and_a_traditional_2D_fingerprint,Method,natural language processing (NLP)-based embeddings and a traditional 2D fingerprint,2023
+Method_natural_language_processing_methods,Method,natural language processing methods,2024
+Method_natural_language_processing_techniques,Method,natural language processing techniques,2020
+Method_pattern-exploiting_training,Method,pattern-exploiting training,2023
+Method_recast_the_task_into_a_text-to-text_format,Method,recast the task into a text-to-text format,2023
+Method_rule-based_synonym_replacement_strategies,Method,rule-based synonym replacement strategies,2020
+Method_sentence-level_evaluation,Method,sentence-level evaluation,2023
+Method_stacking_ensemble-learning_model,Method,stacking ensemble-learning model,2021
+Task_A_Survey_on_Mixture_of_Experts,Task,A Survey on Mixture of Experts,2024
+Task_Anonymous_Pattern_Molecular_Fingerprint_and_its_Applications_on_Property_Identification,Task,Anonymous Pattern Molecular Fingerprint and its Applications on Property Identification,2023
+Task_Automated_Mapping_From_Relational_Databases_to_a_Unified_Property_Knowledge_Graph,Task,Automated Mapping From Relational Databases to a Unified Property Knowledge Graph,2023
+Task_Commonsense_Reasoning_Tasks,Task,Commonsense Reasoning Tasks,2021
+Task_Evaluating_Language_Understanding_Capabilities_of_NLP_Models,Task,Evaluating Language Understanding Capabilities of NLP Models,2022
+Task_Fact-checking,Task,Fact-checking,2021
+Task_Fake_News_Detection,Task,Fake News Detection,2022
+Task_IE,Task,IE,2023
+Task_Locally_Measuring_Cross-lingual_Lexical_Alignment:_A_Domain_and_Word_Level_Perspective,Task,Locally Measuring Cross-lingual Lexical Alignment: A Domain and Word Level Perspective,2024
+Task_Modality_and_Negation,Task,Modality and Negation,2021
+Task_Modeling_Language_Variation_and_Universals:_A_Survey_on_Typological_Linguistics_for_Natural_Language_Processing,Task,Modeling Language Variation and Universals: A Survey on Typological Linguistics for Natural Language Processing,2018
+Task_Multi-modal_Regular_Expression_Synthesis_by_Generate-and-Repair,Task,Multi-modal Regular Expression Synthesis by Generate-and-Repair,2020
+Task_NER,Task,NER,2020
+Task_NOTABLE,Task,NOTABLE,2023
+Task_PET,Task,PET,2023
+Task_Question_Answering,Task,Question Answering,2021
+Task_Sparse_Lifting_of_Dense_Vectors,Task,Sparse Lifting of Dense Vectors,2019
+Task_Symmetric_Classification_Tasks,Task,Symmetric Classification Tasks,2022
+Task_UIE,Task,UIE,2023
+Task_You_Only_Look_Once_Pose_estimation,Task,You Only Look Once Pose estimation,2023
+Task_clinical_summarization,Task,clinical summarization,2023
+Task_entity_recognition,Task,entity recognition,2020
+Task_entity_recognition_and_relation_extraction,Task,entity recognition and relation extraction,2023
+Task_information_extraction,Task,information extraction,2023
+Task_multi-task_learning,Task,multi-task learning,2022
+Task_natural_language_generation,Task,natural language generation,2023
+Task_natural_language_processing,Task,natural language processing,2025
+Task_real-time_detection,Task,real-time detection,2024
+Task_task,Task,task,2021
+Task_text_classification,Task,text classification,2018
+Technology_BERT,Technology,BERT,2020
+Technology_BERT-MLM,Technology,BERT-MLM,2020
+Technology_BERTopic,Technology,BERTopic,2024
+Technology_Chain-of-Thought,Technology,Chain-of-Thought,2025
+Technology_Code-LLMs,Technology,Code-LLMs,2023
+Technology_Codex,Technology,Codex,2023
+Technology_CommSense,Technology,CommSense,2024
+Technology_Common_Crawl,Technology,Common Crawl,2020
+Technology_Data_Analytics,Technology,Data Analytics,2020
+Technology_Deep_Learning,Technology,Deep Learning,2020
+Technology_Distributional_Semantics,Technology,Distributional Semantics,2019
+Technology_Fine-tuning_Large_Language_Models_for_DGA_and_DNS_Exfiltration_Detection_Domain_Generation_Algorithms,Technology,Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection Domain Generation Algorithms,2024
+Technology_GPT,Technology,GPT,2025
+Technology_GPT-4o,Technology,GPT-4o,2024
+Technology_GenAI,Technology,GenAI,2024
+Technology_GenAI-generated,Technology,GenAI-generated,2024
+Technology_Generative_AI,Technology,Generative AI,2024
+Technology_GloVe_embeddings,Technology,GloVe embeddings,2019
+Technology_IE,Technology,IE,2023
+Technology_LLMs,Technology,LLMs,2023
+Technology_ML,Technology,ML,2024
+Technology_Machine_Learning,Technology,Machine Learning,2024
+Technology_NCI,Technology,NCI,2023
+Technology_NLP,Technology,NLP,2021
+Technology_Natural_Language_Processing,Technology,Natural Language Processing,2021
+Technology_Natural_Language_Processing_technique,Technology,Natural Language Processing technique,2023
+Technology_PET,Technology,PET,2023
+Technology_PLMs,Technology,PLMs,2021
+Technology_SUPER,Technology,SUPER,2024
+Technology_Sparse_Lifting_of_Dense_Vectors,Technology,Sparse Lifting of Dense Vectors,2019
+Technology_TransRegex,Technology,TransRegex,2020
+Technology_Twi,Technology,Twi,2021
+Technology_YOLOPose,Technology,YOLOPose,2023
+Technology_bipol,Technology,bipol,2023
+Technology_computer_science,Technology,computer science,2019
+Technology_domain-specific_embeddings,Technology,domain-specific embeddings,2020
+Technology_fine-tuned_LLMs,Technology,fine-tuned LLMs,2024
