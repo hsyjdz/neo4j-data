@@ -5827,7 +5827,6 @@ id,type,name,time
 2110.08633,Paper,Hydra: A System for Large Multi-Model Deep Learning,2021
 2110.08678,Paper,Improving Transformers with Probabilistic Attention Keys,2021
 2110.08875,Paper,Predicting the Performance of Multilingual NLP Models,2021
-2110.08887,Paper,"Schr\""odinger's Tree -- On Syntax and Neural Language Models",2021
 2110.08975,Paper,Deep Transfer Learning & Beyond: Transformer Language Models in Information Systems Research,2021
 2110.09086,Paper,ViraPart: A Text Refinement Framework for Automatic Speech Recognition and Natural Language Processing Tasks in Persian,2021
 2110.09094,Paper,Using Natural Language Processing to Understand Reasons and Motivators Behind Customer Calls in Financial Domain,2021
@@ -8105,7 +8104,6 @@ id,type,name,time
 2211.09113,Paper,On Measuring the Intrinsic Few-Shot Hardness of Datasets,2022
 2211.09207,Paper,A Graph-Based Context-Aware Model to Understand Online Conversations,2022
 2211.09511,Paper,Hey ASR System! Why Aren't You More Inclusive? Automatic Speech Recognition Systems' Bias and Proposed Bias Mitigation Techniques. A Literature Review,2022
-2211.09680,Paper,"Analyse der Entwicklungstreiber milit\""arischer Schwarmdrohnen durch Natural Language Processing",2022
 2211.09705,Paper,A Review of Deep Learning Techniques for Protein Function Prediction,2022
 2211.09710,Paper,Style Classification of Rabbinic Literature for Detection of Lost Midrash Tanhuma Material,2022
 2211.09733,Paper,BERT-Deep CNN: State-of-the-Art for Sentiment Analysis of COVID-19 Tweets,2022
@@ -11430,7 +11428,6 @@ id,type,name,time
 2312.16189,Paper,OpenRL: A Unified Reinforcement Learning Framework,2023
 2312.16240,Paper,Merging Vision Transformers from Different Tasks and Domains,2023
 2312.16291,Paper,Observable Propagation: Uncovering Feature Vectors in Transformers,2023
-2312.16311,Paper,"Zur Darstellung eines mehrstufigen Prototypbegriffs in der multilingualen automatischen Sprachgenerierung: vom Korpus \""uber word embeddings bis hin zum automatischen W\""orterbuch",2023
 2312.16548,Paper,A proposed new metric for the conceptual diversity of a text,2023
 2312.16975,Paper,Few-shot learning for automated content analysis: Efficient coding of arguments and claims in the debate on arms deliveries to Ukraine,2023
 2312.17254,Paper,Faithful Model Evaluation for Model-Based Metrics,2023
@@ -13843,7 +13840,6 @@ id,type,name,time
 2409.11917,Paper,"LLMs in Education: Novel Perspectives, Challenges, and Opportunities",2024
 2409.11968,Paper,Efficacy of Synthetic Data as a Benchmark,2024
 2409.12060,Paper,PARAPHRASUS : A Comprehensive Benchmark for Evaluating Paraphrase Detection Models,2024
-2409.12175,Paper,"Expanding Expressivity in Transformer Models with M\""obiusAttention",2024
 2409.12218,Paper,ARTICLE: Annotator Reliability Through In-Context Learning,2024
 2409.12293,Paper,Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers,2024
 2409.12393,Paper,Small Language Models are Equation Reasoners,2024
@@ -14451,7 +14447,6 @@ id,type,name,time
 2411.10915,Paper,"Bias in Large Language Models: Origin, Evaluation, and Mitigation",2024
 2411.11027,Paper,BianCang: A Traditional Chinese Medicine Large Language Model,2024
 2411.11148,Paper,TabDeco: A Comprehensive Contrastive Framework for Decoupled Representations in Tabular Data,2024
-2411.11171,Paper,"LL\""aMmlein: Compact and Competitive German-Only Language Models from Scratch",2024
 2411.11350,Paper,Zero-Shot Load Forecasting with Large Language Models,2024
 2411.11481,Paper,Exploring Emerging Trends and Research Opportunities in Visual Place Recognition,2024
 2411.11505,Paper,LaVin-DiT: Large Vision Diffusion Transformer,2024
