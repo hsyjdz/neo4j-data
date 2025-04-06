@@ -31,13 +31,11 @@ id,type,name,time
 1002.0481,Paper,Recognition and translation Arabic-French of Named Entities: case of the Sport places,2010
 1002.1095,Paper,Towards a Heuristic Categorization of Prepositional Phrases in English with WordNet,2010
 1003.0024,Paper,Asymptotic Analysis of Generative Semi-Supervised Learning,2010
-1003.4149,Paper,"Les Entit\'es Nomm\'ees : usage et degr\'es de pr\'ecision et de d\'esambigu\""isation",2010
 1004.3183,Paper,Statistical Physics for Natural Language Processing,2010
 1005.5596,Paper,A generic tool to generate a lexicon for NLP from Lexicon-Grammar tables,2010
 1006.2835,Paper,Fuzzy Modeling and Natural Language Processing for Panini's Sanskrit Grammar,2010
 1006.3787,Paper,Complete Complementary Results Report of the MARF's NLP Approach to the DEFT 2010 Competition,2010
 1006.5040,Paper,The comparison of Wiktionary thesauri transformed into the machine-readable format,2010
-1009.1117,Paper,Constructions d\'efinitoires des tables du Lexique-Grammaire,2010
 1010.2511,Paper,"The use of machine learning with signal- and NLP processing of source code to fingerprint, detect, and classify vulnerabilities and weaknesses with MARFCAT",2010
 1010.3177,Paper,Introduction to the iDian,2010
 1011.3258,Paper,Integration of Agile Ontology Mapping towards NLP Search in I-SOAS,2010
@@ -280,7 +278,6 @@ id,type,name,time
 1412.8079,Paper,Persian Sentiment Analyzer: A Framework based on a Novel Feature Selection Method,2014
 1412.8419,Paper,Simple Image Description Generator via a Linear Phrase-Based Approach,2014
 1501.00358,Paper,Comprehend DeepWalk as Matrix Factorization,2015
-1501.01243,Paper,"Un r\'esumeur \`a base de graphes, ind\'ep\'endant de la langue",2015
 1501.01252,Paper,Optimisation using Natural Language Processing: Personalized Tour Recommendation for Museums,2015
 1501.01254,Paper,Unknown Words Analysis in POS tagging of Sinhala Language,2015
 1501.02530,Paper,A Dataset for Movie Description,2015
@@ -359,7 +356,6 @@ id,type,name,time
 1508.07885,Paper,Characterizing Phishing Threats with Natural Language Processing,2015
 1509.00413,Paper,Program Synthesis using Natural Language,2015
 1509.00963,Paper,On TimeML-Compliant Temporal Expression Extraction in Turkish,2015
-1509.01539,Paper,Analyse lexicale outill{\'e}e de la parole transcrite de patients schizophr{\`e}nes,2015
 1509.01719,Paper,Unsupervised Cross-Domain Recognition by Identifying Compact Joint Subspaces,2015
 1509.02301,Paper,Probabilistic Bag-Of-Hyperlinks Model for Entity Linking,2015
 1509.03390,Paper,Measuring an Artificial Intelligence System's Performance on a Verbal IQ Test For Young Children,2015
@@ -411,7 +407,6 @@ id,type,name,time
 1601.05893,Paper,GeoTextTagger: High-Precision Location Tagging of Textual Documents using a Natural Language Processing Approach,2016
 1601.06081,Paper,Why Do Urban Legends Go Viral?,2016
 1602.00269,Paper,Numerical Atrribute Extraction from Clinical Texts,2016
-1602.02047,Paper,Utiliza\c{c}\~ao de Grafos e Matriz de Similaridade na Sumariza\c{c}\~ao Autom\'atica de Documentos Baseada em Extra\c{c}\~ao de Frases,2016
 1602.02123,Paper,Sequence Classification with Neural Conditional Random Fields,2016
 1602.02410,Paper,Exploring the Limits of Language Modeling,2016
 1602.03483,Paper,Learning Distributed Representations of Sentences from Unlabelled Data,2016
@@ -502,7 +497,6 @@ id,type,name,time
 1606.04279,Paper,Cross-Lingual Morphological Tagging for Low-Resource Languages,2016
 1606.04835,Paper,Learning Word Sense Embeddings from Word Sense Definitions,2016
 1606.05433,Paper,FVQA: Fact-based Visual Question Answering,2016
-1606.05611,Paper,Data-driven HR - R\'esum\'e Analysis Based on Natural Language Processing and Machine Learning,2016
 1606.06424,Paper,A Novel Framework to Expedite Systematic Reviews by Automatically Building Information Extraction Training Corpora,2016
 1606.06461,Paper,Neighborhood Mixture Model for Knowledge Base Completion,2016
 1606.06905,Paper,Learning text representation using recurrent convolutional neural network with highway layers,2016
@@ -702,7 +696,6 @@ id,type,name,time
 1702.07835,Paper,Critical Survey of the Freely Available Arabic Corpora,2017
 1702.08303,Paper,Identifying beneficial task relations for multi-task learning in deep neural networks,2017
 1702.08450,Paper,A Knowledge-Based Approach to Word Sense Disambiguation by distributional selection and semantic features,2017
-1702.08451,Paper,"Approches d'analyse distributionnelle pour am\'eliorer la d\'esambigu\""isation s\'emantique",2017
 1703.00538,Paper,Unsupervised Ensemble Ranking of Terms in Electronic Health Record Notes Based on Their Importance to Patients,2017
 1703.00782,Paper,Lock-Free Parallel Perceptron for Graph-based Dependency Parsing,2017
 1703.01204,Paper,Custom Hypergraph Categories via Generalized Relations,2017
@@ -720,7 +713,6 @@ id,type,name,time
 1703.04908,Paper,Emergence of Grounded Compositional Language in Multi-Agent Populations,2017
 1703.05706,Paper,Improving Document Clustering by Eliminating Unnatural Language,2017
 1703.05819,Paper,Identifying Partisan Slant in News Articles and Twitter during Political Crises,2017
-1703.06501,Paper,M\'etodos de Otimiza\c{c}\~ao Combinat\'oria Aplicados ao Problema de Compress\~ao MultiFrases,2017
 1703.06587,Paper,Paper2vec: Citation-Context Based Document Distributed Representation for Scholar Recommendation,2017
 1703.06676,Paper,I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation,2017
 1703.08098,Paper,A survey of embedding models of entities and relationships for knowledge graph completion,2017
@@ -1128,7 +1120,6 @@ id,type,name,time
 1804.00079,Paper,Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning,2018
 1804.00804,Paper,Automatic Normalization of Word Variations in Code-Mixed Social Media Text,2018
 1804.00806,Paper,Sentiment Analysis of Code-Mixed Languages leveraging Resource Rich Languages,2018
-1804.00832,Paper,Attentive Sequence-to-Sequence Learning for Diacritic Restoration of Yor\`ub\'a Language Text,2018
 1804.00857,Paper,Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling,2018
 1804.00968,Paper,In-depth Question classification using Convolutional Neural Networks,2018
 1804.01486,Paper,Clinical Concept Embeddings Learned from Massive Sources of Multimodal Medical Data,2018
@@ -1744,7 +1735,6 @@ id,type,name,time
 1903.06901,Paper,Emotion Action Detection and Emotion Inference: the Task and Dataset,2019
 1903.07054,Paper,Adversarial Attacks on Deep Neural Networks for Time Series Classification,2019
 1903.07307,Paper,Low-rank approximations of hyperbolic embeddings,2019
-1903.07397,Paper,Un duel probabiliste pour d\'epartager deux pr\'esidents (LIA @ DEFT'2005),2019
 1903.07676,Paper,Software-defined Design Space Exploration for an Efficient DNN Accelerator Architecture,2019
 1903.07766,Paper,Lemotif: An Affective Visual Journal Using Deep Neural Networks,2019
 1903.07879,Paper,Hybrid Approaches for our Participation to the n2c2 Challenge on Cohort Selection for Clinical Trials,2019
@@ -2122,7 +2112,6 @@ id,type,name,time
 1908.00308,Paper,MSnet: A BERT-based Network for Gendered Pronoun Resolution,2019
 1908.00497,Paper,Two-Stream Video Classification with Cross-Modality Attention,2019
 1908.00588,Paper,Visualizing RNN States with Predictive Semantic Encodings,2019
-1908.01674,Paper,Processamento de linguagem natural em Portugu\^es e aprendizagem profunda para o dom\'inio de \'Oleo e G\'as,2019
 1908.01767,Paper,Exploring Neural Net Augmentation to BERT for Question Answering on SQUAD 2.0,2019
 1908.01817,Paper,Sparsity Emerges Naturally in Neural Language Models,2019
 1908.01832,Paper,Word Sense Disambiguation using Diffusion Kernel PCA,2019
@@ -2698,7 +2687,6 @@ id,type,name,time
 2001.11857,Paper,Hybrid Tiled Convolutional Neural Networks for Text Sentiment Classification,2020
 2002.00175,Paper,UIT-ViIC: A Dataset for the First Evaluation on Vietnamese Image Captioning,2020
 2002.00181,Paper,Fine-Tuning BERT for Schema-Guided Zero-Shot Dialogue State Tracking,2020
-2002.00725,Paper,Traduction des Grammaires Cat\'egorielles de Lambek dans les Grammaires Cat\'egorielles Abstraites,2020
 2002.00735,Paper,Self-attention-based BiGRU and capsule network for named entity recognition,2020
 2002.00737,Paper,Are Pre-trained Language Models Aware of Phrases? Simple but Strong Baselines for Grammar Induction,2020
 2002.00738,Paper,An Efficient Architecture for Predicting the Case of Characters using Sequence Models,2020
@@ -2836,7 +2824,6 @@ id,type,name,time
 2003.10286,Paper,PathVQA: 30000+ Questions for Medical Visual Question Answering,2020
 2003.10296,Paper,Adaptive Name Entity Recognition under Highly Unbalanced Data,2020
 2003.10555,Paper,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,2020
-2003.10564,Paper,Improving Yor\`ub\'a Diacritic Restoration,2020
 2003.10816,Paper,Cross-Lingual Adaptation Using Universal Dependencies,2020
 2003.11080,Paper,XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization,2020
 2003.11184,Paper,Adversarial Multi-Binary Neural Network for Multi-class Classification,2020
@@ -3755,7 +3742,6 @@ id,type,name,time
 2010.05567,Paper,Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards,2020
 2010.05569,Paper,Carbon to Diamond: An Incident Remediation Assistant System From Site Reliability Engineers' Conversations in Hybrid Cloud Operations,2020
 2010.05609,Paper,Load What You Need: Smaller Versions of Multilingual BERT,2020
-2010.05648,Paper,From Hero to Z\'eroe: A Benchmark of Low-Level Adversarial Attacks,2020
 2010.05680,Paper,TurboTransformers: An Efficient GPU Serving System For Transformer Models,2020
 2010.05700,Paper,Reformulating Unsupervised Style Transfer as Paraphrase Generation,2020
 2010.05736,Paper,EFSG: Evolutionary Fooling Sentences Generator,2020
@@ -4293,7 +4279,6 @@ id,type,name,time
 2101.11956,Paper,"Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions",2021
 2101.11974,Paper,Disembodied Machine Learning: On the Illusion of Objectivity in NLP,2021
 2101.11978,Paper,Semi-automatic Generation of Multilingual Datasets for Stance Detection in Twitter,2021
-2101.12015,Paper,BERTa\'u: Ita\'u BERT for digital customer service,2021
 2101.12073,Paper,A Neural Few-Shot Text Classification Reality Check,2021
 2101.12294,Paper,Combining pre-trained language models and structured knowledge,2021
 2101.12608,Paper,Does injecting linguistic structure into language models lead to better alignment with brain recordings?,2021
@@ -4494,7 +4479,6 @@ id,type,name,time
 2103.07492,Paper,Continual Learning for Recurrent Neural Networks: an Empirical Evaluation,2021
 2103.07552,Paper,"Few-Shot Text Classification with Triplet Networks, Data Augmentation, and Curriculum Learning",2021
 2103.07656,Paper,Optimal Embedding Calibration for Symbolic Music Similarity,2021
-2103.07762,Paper,OkwuGb\'e: End-to-End Speech Recognition for Fon and Igbo,2021
 2103.07875,Paper,Learning a Word-Level Language Model with Sentence-Level Noise Contrastive Estimation for Contextual Sentence Probability Estimation,2021
 2103.07929,Paper,A Systematic Review of Reproducibility Research in Natural Language Processing,2021
 2103.08640,Paper,UPANets: Learning from the Universal Pixel Attention Networks,2021
@@ -6369,7 +6353,6 @@ id,type,name,time
 2202.02093,Paper,Temporal Attention for Language Models,2022
 2202.02175,Paper,Crystalline: Lowering the Cost for Developers to Collect and Organize Information for Decision Making,2022
 2202.02294,Paper,Pre-Trained Neural Language Models for Automatic Mobile App User Feedback Answer Generation,2022
-2202.02398,Paper,Pir\'a: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean,2022
 2202.02476,Paper,Semantic Similarity Computing Model Based on Multi Model Fine-Grained Nonlinear Fusion,2022
 2202.02506,Paper,Iota: A Framework for Analyzing System-Level Security of IoTs,2022
 2202.02702,Paper,How Effective is Incongruity? Implications for Code-mix Sarcasm Detection,2022
@@ -6396,7 +6379,6 @@ id,type,name,time
 2202.05144,Paper,InPars: Data Augmentation for Information Retrieval using Large Language Models,2022
 2202.05170,Paper,Efficacy of Transformer Networks for Classification of Raw EEG Data,2022
 2202.05457,Paper,Hindi/Bengali Sentiment Analysis Using Transfer Learning and Joint Dual Input Learning with Self Attention,2022
-2202.05682,Paper,GenderedNews: Une approche computationnelle des \'ecarts de repr\'esentation des genres dans la presse fran\c{c}aise,2022
 2202.05749,Paper,Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense,2022
 2202.05758,Paper,Using Random Perturbations to Mitigate Adversarial Attacks on Sentiment Analysis Models,2022
 2202.06149,Paper,Automatic Issue Classifier: A Transfer Learning Framework for Classifying Issue Reports,2022
@@ -6878,7 +6860,6 @@ id,type,name,time
 2204.13496,Paper,"EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification",2022
 2204.13743,Paper,HiNER: A Large Hindi Named Entity Recognition Dataset,2022
 2204.13853,Paper,Detecting Textual Adversarial Examples Based on Distributional Characteristics of Data Representations,2022
-2204.13869,Paper,Por Qu\'e N\~ao Utiliser Alla Spr{\aa}k? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer,2022
 2204.13943,Paper,User Experience Design for Automatic Credibility Assessment of News Content About COVID-19,2022
 2204.14017,Paper,Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling,2022
 2204.14081,Paper,Few-shot learning for medical text: A systematic review,2022
@@ -8683,7 +8664,6 @@ id,type,name,time
 2302.09304,Paper,Interpretability in Activation Space Analysis of Transformers: A Focused Survey,2023
 2302.09327,Paper,Transformadores: Fundamentos teoricos y Aplicaciones,2023
 2302.09328,Paper,SSVMR: Saliency-based Self-training for Video-Music Retrieval,2023
-2302.09346,Paper,Redes Generativas Adversarias (GAN) Fundamentos Te\'oricos y Aplicaciones,2023
 2302.09360,Paper,Backdoor Attacks to Pre-trained Unified Foundation Models,2023
 2302.09419,Paper,A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT,2023
 2302.09420,Paper,RobustNLP: A Technique to Defend NLP Models Against Backdoor Attacks,2023
@@ -9089,7 +9069,6 @@ id,type,name,time
 2304.09948,Paper,Catch Me If You Can: Identifying Fraudulent Physician Reviews with Large Language Models Using Generative Pre-Trained Transformers,2023
 2304.09972,Paper,MasakhaNEWS: News Topic Classification for African languages,2023
 2304.09974,Paper,SurgicalGPT: End-to-End Language-Vision GPT for Visual Question Answering in Surgery,2023
-2304.09982,Paper,Radar de Parit\'e: An NLP system to measure gender representation in French news stories,2023
 2304.10149,Paper,Is ChatGPT a Good Recommender? A Preliminary Study,2023
 2304.10164,Paper,Analyzing FOMC Minutes: Accuracy and Constraints of Language Models,2023
 2304.10224,Paper,Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?,2023
@@ -11693,7 +11672,6 @@ id,type,name,time
 2401.17228,Paper,Morality is Non-Binary: Building a Pluralist Moral Sentence Embedding Space using Contrastive Learning,2024
 2401.17257,Paper,Low Thrust Trajectory Design Using A Semi-Analytic Approach,2024
 2401.17396,Paper,Fine-tuning Transformer-based Encoder for Turkish Language Understanding Tasks,2024
-2401.17543,Paper,Fr\'echet Distance for Offline Evaluation of Information Retrieval Systems with Sparse Labels,2024
 2401.17602,Paper,Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning,2024
 2401.17645,Paper,ReSLLM: Large Language Models are Strong Resource Selectors for Federated Search,2024
 2401.17658,Paper,Document Structure in Long Document Transformers,2024
@@ -11814,7 +11792,6 @@ id,type,name,time
 2402.07271,Paper,Previously on the Stories: Recap Snippet Identification for Story Reading,2024
 2402.07304,Paper,Insights into Natural Language Database Query Errors: From Attention Misalignment to User Handling Strategies,2024
 2402.07339,Paper,Beyond the Headlines: Understanding Sentiments and Morals Impacting Female Employment in Spain,2024
-2402.07405,Paper,D\'olares or Dollars? Unraveling the Bilingual Prowess of Financial LLMs Between Spanish and English,2024
 2402.07448,Paper,AraSpider: Democratizing Arabic-to-SQL,2024
 2402.07470,Paper,Pushing The Limit of LLM Capacity for Text Classification,2024
 2402.07519,Paper,MAFIA: Multi-Adapter Fused Inclusive LanguAge Models,2024
@@ -11958,7 +11935,6 @@ id,type,name,time
 2402.15010,Paper,How Important Is Tokenization in French Medical Masked Language Models?,2024
 2402.15012,Paper,Ar-Spider: Text-to-SQL in Arabic,2024
 2402.15017,Paper,Towards Few-Shot Adaptation of Foundation Models via Multitask Finetuning,2024
-2402.15039,Paper,Descripci\'on autom\'atica de secciones delgadas de rocas: una aplicaci\'on Web,2024
 2402.15132,Paper,Improving Sentence Embeddings with Automatic Generation of Training Data Using Few-shot Examples,2024
 2402.15202,Paper,Fine-Grained Detoxification via Instance-Level Prefixes for Large Language Models,2024
 2402.15313,Paper,ArabianGPT: Native Arabic GPT-based Large Language Model,2024
@@ -12605,7 +12581,6 @@ id,type,name,time
 2404.16294,Paper,LLM-Based Section Identifiers Excel on Open Source but Stumble in Real World Applications,2024
 2404.16407,Paper,U2++ MoE: Scaling 4.7x parameters with minimal impact on RTF,2024
 2404.16574,Paper,Exploring Internal Numeracy in Language Models: A Case Study on ALBERT,2024
-2404.16653,Paper,An\'alise de ambiguidade lingu\'istica em modelos de linguagem de grande escala (LLMs),2024
 2404.16992,Paper,A Catalog of Transformations to Remove Smells From Natural Language Tests,2024
 2404.17123,Paper,Text Sentiment Analysis and Classification Based on Bidirectional Gated Recurrent Units (GRUs) Model,2024
 2404.17194,Paper,TIGQA:An Expert Annotated Question Answering Dataset in Tigrinya,2024
@@ -12731,7 +12706,6 @@ id,type,name,time
 2405.05135,Paper,Lessons from the Use of Natural Language Inference (NLI) in Requirements Engineering Tasks,2024
 2405.05365,Paper,Enhancing Holonic Architecture with Natural Language Processing for System of Systems,2024
 2405.05610,Paper,Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM,2024
-2405.05777,Paper,Towards a More Inclusive AI: Progress and Perspectives in Large Language Model Training for the S\'ami Language,2024
 2405.05795,Paper,Enhancing Suicide Risk Detection on Social Media through Semi-Supervised Deep Label Smoothing,2024
 2405.05813,Paper,Revitalising Stagecraft: NLP-Driven Sentiment Analysis for Traditional Theater Revival,2024
 2405.05966,Paper,Natural Language Processing RELIES on Linguistics,2024
@@ -13191,7 +13165,6 @@ id,type,name,time
 2406.15175,Paper,Enhancing Idiomatic Representation in Multiple Languages via an Adaptive Contrastive Triplet Loss,2024
 2406.15294,Paper,NLP-KG: A System for Exploratory Search of Scientific Literature in Natural Language Processing,2024
 2406.15358,Paper,Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili,2024
-2406.15370,Paper,Traitement quantique des langues : {\'e}tat de l'art,2024
 2406.15473,Paper,Intertwining CP and NLP: The Generation of Unreasonably Constrained Sentences,2024
 2406.15483,Paper,Duplicate Detection with GenAI,2024
 2406.15499,Paper,Exploring large language models for microstructure evolution in materials,2024
@@ -13250,7 +13223,6 @@ id,type,name,time
 2406.19358,Paper,The Model Arena for Cross-lingual Sentiment Analysis: A Comparative Study in the Era of Large Language Models,2024
 2406.19413,Paper,Saliency Attention and Semantic Similarity-Driven Adversarial Perturbation,2024
 2406.19526,Paper,TocBERT: Medical Document Structure Extraction Using Bidirectional Transformers,2024
-2406.19564,Paper,Voices Unheard: NLP Resources and Models for Yor\`ub\'a Regional Dialects,2024
 2406.19642,Paper,IDT: Dual-Task Adversarial Attacks for Privacy Protection,2024
 2406.19651,Paper,CANDY: A Benchmark for Continuous Approximate Nearest Neighbor Search with Dynamic Data Ingestion,2024
 2406.19707,Paper,InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management,2024
@@ -14685,7 +14657,6 @@ id,type,name,time
 2412.10429,Paper,GPTDrawer: Enhancing Visual Synthesis through ChatGPT,2024
 2412.10434,Paper,NAT-NL2GQL: A Novel Multi-Agent Framework for Translating Natural Language to Graph Query Language,2024
 2412.10511,Paper,Automated Image Captioning with CNNs and Transformers,2024
-2412.10576,Paper,Agro-STAY : Collecte de donn\'ees et analyse des informations en agriculture alternative issues de YouTube,2024
 2412.10599,Paper,Advances in Transformers for Robotic Applications: A Review,2024
 2412.10617,Paper,BinarySelect to Improve Accessibility of Black-Box Attack Research,2024
 2412.10745,Paper,Enhancing Event Extraction from Short Stories through Contextualized Prompts,2024
@@ -15305,7 +15276,6 @@ id,type,name,time
 2502.17071,Paper,Systematic Weight Evaluation for Pruning Large Language Models: Enhancing Performance and Sustainability,2025
 2502.17129,Paper,Thus Spake Long-Context Large Language Model,2025
 2502.17206,Paper,Neural Attention: A Novel Mechanism for Enhanced Expressive Power in Transformer Models,2025
-2502.17364,Paper,Bridging Gaps in Natural Language Processing for Yor\`ub\'a: A Systematic Review of a Decade of Progress and Prospects,2025
 2502.17392,Paper,Emoti-Attack: Zero-Perturbation Adversarial Attacks on NLP Systems via Emoji Sequences,2025
 2502.17464,Paper,Large Cognition Model: Towards Pretrained EEG Foundation Model,2025
 2502.17465,Paper,Bridging Brain Signals and Language: A Deep Learning Approach to EEG-to-Text Decoding,2025
@@ -15907,7 +15877,6 @@ Method_CrUISE-_AC,Method,CrUISE- AC,2025
 Method_Cross-Lingual_Fine-Grained_Entity_Typing,Method,Cross-Lingual Fine-Grained Entity Typing,2021
 Method_Cross-Task_Generalization_via_Natural_Language_Crowdsourcing_Instructions,Method,Cross-Task Generalization via Natural Language Crowdsourcing Instructions,2021
 Method_Cross-dialect_Translation_and_Intent_Preservation,Method,Cross-dialect Translation and Intent Preservation,2024
-"Method_Cross-lingual_Choice_of_Plausible_Alternatives_(XCOPA),_a_typologically_diverse_multilingual_dataset_for_causal_commonsense_reasoning_in_11_languages,_which_includes_resource-poor_languages_like_Eastern_Apur\'imac_Quechua_and_Haitian_Creole._We_evaluate_a_range_of_state-of-the-art_models_on_this_novel_dataset,_revealing_that_the_performance_of_current_methods_based_on_multilingual_pretraining_and_zero-shot_fine-tuning",Method,"Cross-lingual Choice of Plausible Alternatives (XCOPA), a typologically diverse multilingual dataset for causal commonsense reasoning in 11 languages, which includes resource-poor languages like Eastern Apur\'imac Quechua and Haitian Creole. We evaluate a range of state-of-the-art models on this novel dataset, revealing that the performance of current methods based on multilingual pretraining and zero-shot fine-tuning",2020
 Method_Cross-lingual_Representation_Learner,Method,Cross-lingual Representation Learner,2021
 Method_Cross-lingual_Transferring_of_Pre-trained_Contextualized_Language_Models,Method,Cross-lingual Transferring of Pre-trained Contextualized Language Models,2021
 Method_Cross-model_Correlation_Analysis,Method,Cross-model Correlation Analysis,2018
@@ -23771,7 +23740,6 @@ Technology_Fine-mixing,Technology,Fine-mixing,2022
 Technology_Fine-tuning,Technology,Fine-tuning,2023
 Technology_FineWeb_edu,Technology,FineWeb_edu,2024
 Technology_Finite-State-Transducers,Technology,Finite-State-Transducers,2015
-Technology_FlaMB\'e,Technology,FlaMB\'e,2023
 Technology_Flan-T5,Technology,Flan-T5,2024
 Technology_Flash_Attention_and_Parameter-Efficient_Fine-Tuning,Technology,Flash Attention and Parameter-Efficient Fine-Tuning,2024
 Technology_FlexGen,Technology,FlexGen,2024
