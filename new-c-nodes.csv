@@ -15315,7 +15315,7 @@ id,type,name,time
 2502.20273,Paper,How Much is Enough? The Diminishing Returns of Tokenization Training Data,2025
 2502.20299,Paper,An exploration of features to improve the generalisability of fake news detection models,2025
 2502.20350,Paper,KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model,2025
-Method_-osca,Method,-OSCA,2024
+Method_osca,Method,-OSCA,2024
 Method_0.8,Method,0.8 V,2023
 Method_1-bit,Method,1-bit post-training quantization,2024
 Method_1d-touch,Method,1D-Touch,2023
@@ -22265,7 +22265,7 @@ Task_word-analogy,Task,word-analogy,2015
 Task_word-vector,Task,word-vector representation,2016
 Task_zero-shot,Task,zero-shot detection,2024
 Task_zero-shot,Task,zero-shot end-to-end relation extraction,2025
-Technology_-slic,Technology,-SLIC,2024
+Technology_slic,Technology,-SLIC,2024
 Technology_1-pager,Technology,1-Pager,2023
 Technology_3dmambaipf,Technology,3DMambaIPF,2024
 Technology_3dvlp,Technology,3DVLP,2023
