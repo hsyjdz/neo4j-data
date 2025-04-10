@@ -1,0 +1,340 @@
+id,type,name,time
+Method_adversarial_training,Method,"Adversarial Training, DarijaBanking, Hierarchical Clustering, Virtual Adversarial Training, adversarial attacks, adversarial filtering, adversarial learning, adversarial training, rarchical Clustering, virtual adversarial training",2024
+Method_agent_architecture,Method,"neural architecture search, rchitecture, rmer-based architecture",2023
+Method_ai,Method,Aida,2022
+Method_algorithms,Method,"algorithm, algorithms, orithm",2020
+Method_anaphora_resolution,Method,"analogical reasoning, coreference resolution",2021
+Method_argumentation_mining,Method,"Argument Mining, Image captioning, argument mining, hard negative mining, image captioning",2023
+Method_artificial_intelligence,Method,"AI, Artificial Intelligence, Variational Inference",2024
+Method_automatic_indexing,Method,"Automated audio captioning, Topic Modeling, automated reasoning, automatic and human evaluation, automatic essay grading, automatic prompt design, automatic text summarization, topic modeling, topic modelling",2022
+Method_automation,Method,"AutoML-GPT, Batch Normalization, GatorTron, Mutual Information, actorization, automated, automatic",2023
+Method_bert,Method,"BERT, BERT-GT, BERTopic, BET, BLICEr, Bert-base, CT-BERT, DeBERTa, ERT, ET, FedRTS, G-BERT, LABDet, MathBERT, MoEBERT, RT, RoBERTa, SNOBERT, he-art, m-BERT, mBERT",2023
+Method_chatbots,Method,"ChatGPT, ChatWords, EchoAtt, charts",2023
+Method_clinical_text,Method,Clinical BERT,2021
+Method_cognition,Method,"ONION, Tokenization, cation, ognition, tokenization",2023
+Method_collaboration,Method,"calibration, collaborative training, label aggregation, label propagation",2021
+Method_compositionality,Method,positional encodings,2019
+Method_computational,Method,"DeepMutation, computational, computationally, ompting, rpretation",2021
+Method_computational_linguistics,Method,"computational linguistics, corpus statistics",2021
+Method_computer_science,Method,"Computer Vision, computer graphics, computer vision, computer vision tasks, mputer Vision",2022
+Method_content_annotation,Method,"Counterfactual Data Augmentation, Data annotation, decontextualization, manual annotation, text augmentation",2024
+Method_covid-19,Method,"COVID-19-CT-CXR, D-19",2020
+Method_crowdsourcing,Method,Crowd-Certain,2023
+Method_data_analysis,Method,"Data Augmentation, Topological Data Analysis, data analysis, data analytics, dynamic analysis, topological data analysis",2024
+Method_data_mining,Method,"Data Mining, Data mining, data mining, data modeling, delta tuning, graph mining",2021
+Method_dci,Method,"ADC, CIA, CIL, DCP, DID, DIP, Di, SCI, cIE",2024
+Method_deep_learning,Method,"Deep Learning, Deep Transfer Learning, Deep learning, Dense Fine-tuning, Ensemble Learning, Preference Learning, Prompt learning, Zero-Shot Learning, deep learning, ensemble learning, few-shot learning, metric learning, model pruning, word learning, zero-shot learning",2024
+Method_dictionary,Method,prediction,2016
+Method_dom,Method,"DO, DropMix, random",2018
+Method_em_algorithm,Method,"ML algorithms, evolutionary algorithms",1994
+Method_embedding,Method,"EMR-Merging, Embodied AI, FastText embeddings, GloVe embeddings, Sentence embedding, Word Embedding, Word Embeddings, Word embedding, Word embeddings, cter embeddings, embedding, embeddings, equation embeddings, graph embedding, mbedding, node embeddings, order embeddings, patch embedding, sentence embedding, sentence embeddings, task embedding, text embeddings, vector embedding, word embedding, word embeddings",2024
+Method_entity_recognition,Method,"Affinity Propagation, Emotion Recognition, Entity Recognition, Named-Entity Recognition, Named Entity Recog, Named Entity Recogniti, Named Entity Recognition, entity recognition",2023
+Method_evaluation,Method,"Human Evaluation, Model Evaluation, al equations, calculation, cross validation, elationship, human evaluation, meta-evaluation",2024
+Method_feature_extraction,Method,"Event Argument Extraction, Event Extraction, Span Extraction, feature extraction, keyword extraction, sequence transduction",2024
+Method_feature_selection,Method,"Data Selection, Duplicate Detection, e Detection",2020
+Method_france,Method,"ACE, FLAN, NCE, RAC, framing",2018
+Method_generalization_hierarchy,Method,normalization techniques,2020
+Method_gpt,Method,"GAP, GPT-3, GPT-3.5, GPT-4, GPT3.5, GPs, IGP, KGT, MPT, OpenAI GP, PET, PGT, PT, RefGPT, SPT",2023
+Method_human-computer_interaction,Method,"human inspection, mpt injection",2021
+Method_human_computation,Method,"Domain Adaptation, quantum computation",2022
+Method_information_extraction,Method,"Information Extraction, Relation Extraction, biomedical relation extraction, citation text generation, dical relation extraction, emotion detection, entity recognition and relation extraction, information extraction, ion extraction, rationale extraction, relation extraction",2021
+Method_information_filtering,Method,"Collaborative Filtering, Instruction Tuning, Instruction fine-tuning, collaborative filtering, instruction tuning, negation intervention",2019
+Method_information_retrieval,Method,"Information Retrieval, information retrieval, information retrieval techniques",2024
+Method_intent,Method,"BITE, HINT, LINE, PiTest, Text, text, train-test",2022
+Method_intent_recognition,Method,"link prediction, tensor decomposition",2021
+Method_internet,Method,"INTERS, Point-BERT",2024
+Method_knowledge_graphs,Method,"Knowledge Graph Embeddings, Knowledge Graphs, Knowledge graphs, ed graphs, knowledge graph embeddings, knowledge graphs",2021
+Method_knowledge_representation,Method,"Abstract Meaning Representation, Knowledge Distillation, Knowledge distillation, Learning Representation, knowledge distillation, knowledge distillation technique, knowledge injection, nal knowledge distillation, wledge distillation",2024
+Method_language,Method,language masking,2021
+Method_language_models,Method,"LM, LMs",2020
+Method_language_processing,Method,VLP,2022
+Method_large_language_models,Method,"LLM, Language Modeling, Language Models, Language modeling, Large Language Models, Masked Language Modeling, Masked Language Modelling, Masked language modeling, Pre-trained Language Models, Retrieval-Augmented Large Language Models, Transformer-based Language Models, e Language Models, guage modeling, language modeling, language modelling, language models, masked language modeling, open-source Large Language Models",2024
+Method_law_revisions,Method,"Vision, linear regression, vision",2023
+Method_law_text_analysis,Method,legal text analysis,2021
+Method_learning,Method,"L-Tuning, Learning to Rank, PETuning, e-tuning, encoding, filtering, i-task learning, lowercasing, meta-learning, pre-training, prompt-learning, raining, rning, watermarking",2023
+Method_linguistics,Method,"HolisticBias, Linguist, heuristics, linguistic analysis",2022
+Method_logic_programming,Method,"Linear Programming, Logic Programming, Logistic Regression, Non-Linear Programming, Sequential Quadratic Programming, ear programming, logical reasoning, namic programming, nonlinear programming, sequential quadratic programming",2023
+Method_lstm,Method,"AWD-LSTM, BiLSTM, CNN-LSTM, LST, LSTM, Leap-LSTM, Tree-LSTM",2020
+Method_machine_learning,Method,"Active Learning, Active learning, Contrastive Learning, In-Context Learning, Machine Learning, Machine Learning Approaches, Machine and Deep Learning, Machine learning, Multi-Task Learning, Multi-task Learning, Multi-task learning, Semi-Supervised Learning, Transfer Learning, abductive reasoning, achine learning, active learning, automated machine learning, contrastive learning, graph machine learning, in-context learning, machine-learning, machine learning, machine learning-based, machine learning algorithms, machine learning and deep learning, machine learning models, machine learning techniques, machine unlearning, multi-task learning, offline Q-learning, prompt-based learning, semi-supervised learning, supervised machine learning, traditional machine learning, transfer learning",2022
+Method_machine_reading_comprehension,Method,"Machine Reading Comprehension, machine comprehension, machine reading comprehension",2024
+Method_machine_translation,Method,"Back-Translation, Backtranslation, English-French translation, Machine Translation, Machine translation, Multilingual Neural Machine Translation, Neural Machine Translation, Statistical Machine Translation, Translation, Updated Transformation, back-translation, back translation, code translation, human translation, machine translation, neural machine translation, speech-to-text translation, translation",2020
+Method_mathematical_logic,Method,"mathematical models, mathematical reasoning, semi-automatically",2019
+Method_medical_language_processing,Method,medical imaging,2023
+Method_modeling_languages,Method,Spoken Language,2024
+Method_modularization,Method,"Quantization, layer normalization, model distillation, orization, quantization, subword regularization, summarization, vector quantization",2022
+Method_morphology,Method,"Pathology, tomography",2023
+Method_multilingual_corpora,Method,"Multilingual Transformers, multilingual LLMs",2024
+Method_multimodal_interfaces,Method,MultiAzterTest,2021
+Method_n_grams,Method,"N-Grams, N-grams, Unigram, bigrams, graphs, n-grams, ngrams",1998
+Method_natural,Method,"TAL, manual",2023
+Method_natural_language,Method,natural language,2022
+Method_natural_language_generation,Method,"Natural Language Understanding, Natural Questions, pseudo-label generation, spoken language understanding",2021
+Method_natural_language_inference,Method,Natural Language Inference,2024
+Method_natural_language_processing,Method,"C-NLP, Causal Language Modeling, ELP, Explainable Natural Language Processing, LP, Language Processing, NLP, Natural Language Proc, Natural Language Processing, Natural Language processing, Natural language processing, causal language modeling, deep learning-based natural language processing, e-art natural language processing, e processing, guage Processing, natural language process, natural language processing, natural language processing technique, network analysis and natural language processing, neural language modeling, nguage processing, text mining and natural language processing, uage processing, ural language processing",2020
+Method_natural_language_processing_systems,Method,"Natural Language Processing techniques, natural language processing techniques",2017
+Method_navigation,Method,"Binarization, binarization, rvation",2024
+Method_neural_network,Method,Neural Attention,2025
+Method_neural_networks,Method,"Artificial Neural Networks, Convolutional Neural Networks, Generative Adversarial Networks, Generative adversarial networks, neural-network-based, recurrent neural networks",2021
+Method_ontology,Method,word analogy,2021
+Method_parsing,Method,"AMR parsing, Cascading, Margin, Pareto Testing, agging, averaging, ency parsing, endency parsing, essing, paraphrasing, rmarking, ssing",2021
+Method_privacy,Method,spaCy,2024
+Method_proving,Method,"PVN, Pooling, Prompt-Tuning, Prompt-tuning, Prompt Tuning, Prompt tuning, Pruning, grounding, ing, mpting, prompt-tuning, prompt tuning, prompting, pruning, puting, rting, typing",2018
+Method_query_log,Method,fuzzy logic,2024
+Method_question_answering,Method,"Knowledge Base Question Answering, Phrase-Indexed Question Answering, Question Answering, Visual Question Answer, Visual Question Answering, ction Tuning, motion planning, position masking, quantization and pruning, question answering",2019
+Method_regular_expressions,Method,Regression,2020
+Method_reinforcement_learning,Method,"Deep Reinforcement Learning, Document Ranking, Graph Representation Learning, Reinforcement Learning, Reinforcement Learning from Human Feedback, deep reinforcement learning, in-context-learning, reinforcement learning, reinforcement learning from human feedback, text representation learning",2022
+Method_remodularization,Method,"Lemmatization, de-duplication, lemmatization, ormalization",2022
+Method_requirements_engineering,Method,"Prompt Engineering, prompt engineering, pseudo-code engineering",2023
+Method_robot,Method,"GOBO, ReWOO",2020
+Method_robotics,Method,"Robotics, robotics",2023
+Method_self-organizing_map,Method,"Self-training, self-training",2023
+Method_semantic_analysis,Method,"Latent Semantic Analysis, Probabilistic Latent Semantic Analysis, Rhetorical Analysis, Semantic Tagging, Semantic parsing, geometric analysis, ime series analysis, latent semantic analysis, learning analytics, morphosyntactic analysis, semantic analysis, semantic parsing, semantic tagging, speech analysis, syntactic analysis, technical analysis, thematic analysis",2022
+Method_semantic_retrieval,Method,"Semantically Replace, semantic relation, semantic segmentation",2021
+Method_semantic_web,Method,"Semantic Folding, Semantic Web, semantic overlap, semantic role l, semantic role labeling, semantic textu",2015
+Method_semantics,Method,"EMAT, Semantic Distance, emails, semantics",2022
+Method_sentiment_analysis,Method,"Aspect-Based Sentiment Analysis, Sentiment Analysis, Time Series Analysis, financial sentiment analysis, sentiment analy, sentiment analysis, text sentiment analysis, time series analysis",2024
+Method_simulation,Method,"MMK-Summation, Segmentation, SimulST, Simulation, ation, distillation, ication, permutation, reformulation, simulation, summation",2024
+Method_social_network_analysis,Method,"Network Analysis, Principal Component Analysis, Principal component analysis, network analysis, social network analysis",2022
+Method_social_networks,Method,"Prototypical Network, etworks, prototypical networks",2018
+Method_software_metrics,Method,"ROUGE metric, automated metrics, ion metric",2022
+Method_speech_recognition,Method,"Automatic Speech Recognition, Optical Character Recognition, Speech Recognition, automated speech recognition, automatic speech recognition, face recognition, hashtag recommendation, optical character recognition, self-correction, speech recognition, utomatic speech recognition",2025
+Method_speech_synthesis,Method,"attacker synthesis, image synthesis, speech input, speech synthesis, text-to-speech synthesis",2022
+Method_sponsored_search,Method,"contrastive search, tree search",2022
+Method_sql_query,Method,SQL queries,2022
+Method_statistical_analysis,Method,"Statistical, statistical analysis, statistical modeling, statistics",2023
+Method_support_vector_machines,Method,"Support Vector Machine, support vector regression, vector matching",2023
+Method_synset,Method,"SSE, SpanSeq, syntax",2020
+Method_task_analysis,Method,"aph analytics, program analysis",2023
+Method_text_analysis,Method,"CG analysis, Error Analysis, Fourier analysis, cluster analysis, content analysis, text analysis, text analytics, textual analysis",2024
+Method_text_categorization,Method,"Text Summarization, text normalization, text summarisation, text summarization",2021
+Method_text_classification,Method,"Lexical Simplification, Long Document Classification, Text Classification, automatic classification, classification, graph classification, multi-class text classification, multi-label text classification, node classification, sentence simplification, supervised classification, text classification, topic classification",2023
+Method_text_mining,Method,"Stemming, Text Mining, stemming, text-mining, text editing, text mining, text mining methods",2013
+Method_text_processing,Method,"Speech processing, e-Processing, post-processing, postprocessing, pre-processing, preprocessing, text-to-SQL parsing, text processing",2023
+Method_tokenization_parts_of_speech_tagging,Method,"Part-Of-Speech Tagging, Part-of-Speech tagging, Part-of-speech Tagging, of-speech tagging, part-of-speech tagging",2020
+Method_transformer,Method,"Attention in Transformers, NxMTransformer, Phraseformer, STransE, Sentence Transformers, Transformer, Transformer-DR, Transformer-Patcher, Transformer-XL, Transformer-based model, Transformers, Vision Transformer, Visual Transformers, osed transformer, style transfer, the Transformer, transfor, transformer, transformer-based model, transformer-based models, transformers, video transformer",2025
+Method_translation_knowledge,Method,"translate, translation techniques",2024
+Method_twitter,Method,Twitter,2021
+Method_uml,Method,AutoML,2022
+Method_umls,Method,"UMLS, ms",2024
+Method_uncertainty_management,Method,uncertainty sampling,1994
+Method_universal_information_extraction,Method,temporal relation extraction,2019
+Method_unstructured_data_mining,Method,"Structured Pruning, Structured pruning, structured pruning",2025
+Method_visual_analysis,Method,"image analysis, lexical analysis",2020
+Method_vrml,Method,"RL, verbal",2021
+Method_web_intelligence,Method,e Inference,2022
+Method_web_mining,Method,"bug fixing, web scraping",2024
+Method_web_semantics,Method,web search,2017
+Method_word_sense_disambiguation,Method,Word Sense Induction,2013
+Method_word_vectors,Method,"Word2Vec, Word2vec, ord2Vec, word2vec, word clouds",2021
+Method_wordnets,Method,"SortedNet, Word, WordNet, WordSim",2023
+Method_world_wide_web,Method,WordPiece,2023
+Method_xml,Method,"MBL, MLM, MoL",2001
+Method_xml_processing,Method,"Image Processing, ProcessGPT, image preprocessing, image processing, model compression",2023
+Task_ad-hoc_retrieval,Task,"code retrieval, retrieval",2024
+Task_adversarial_training,Task,"Virtual Adversarial Training, adversarial attack, adversarial training",2020
+Task_agent_architecture,Task,Neural Architecture Search,2023
+Task_algorithms,Task,arithmetics,2022
+Task_ambiguity,Task,AmbigQA,2020
+Task_anaphora_resolution,Task,"Coreference Resolution, analogical reasoning, paraphrase detection",2021
+Task_argumentation_mining,Task,"Argument Mining, Image Captioning, image captioning",2020
+Task_automatic_indexing,Task,Topic Modeling,2023
+Task_automation,Task,automat,2023
+Task_bert,Task,"BERT, BERT-GT, BET, BioBERT, ER, LERT, LastBERT, mBERT",2022
+Task_bioinformatics,Task,Misinformation,2021
+Task_cognition,Task,"Correction, Definition, Generation, Recommendation, Tokenization, cation, code generation, convolution, correction, counting, generation, ition, tokenization",2024
+Task_computer_science,Task,Computer Vision,2021
+Task_content_annotation,Task,"Sentiment Identification, sentiment identification",2018
+Task_covid-19,Task,COVID-19,2020
+Task_covid-19_tv_news,Task,COVID-19 fake news detection,2021
+Task_crowdsourcing,Task,conducting,2020
+Task_dci,Task,"DIE, DIR",2023
+Task_deep_learning,Task,"Few-shot learning, Zero-Shot Learning",2023
+Task_dialogue_systems,Task,dialogue state tracking,2018
+Task_dictionary,Task,"Detection, detection, prediction",2020
+Task_dom,Task,"DAM, ToM",2024
+Task_embedding,Task,graph embedding,2019
+Task_entity_recognition,Task,"Biomedical Named Entity Recognition, Entity Recognition, Entity Set Expansion, Few-shot Named Entity Recognition, Named-Entity Recognition, Named Entity Recognit, Named Entity Recognition, Named entity recognition, biomedical named entity recognition, entity recognition, named entity recognition, operty prediction, toxicity detection",2023
+Task_evaluation,Task,"Evaluation, evaluation",2023
+Task_feature_extraction,Task,"Claim Extraction, Event Argument Extraction, Event Extraction, Event extraction, Keyword extraction, event extraction, keyphrase extraction, keyphrase extraction task, keyword extraction, sequence transduction, triple extraction",2025
+Task_feature_selection,Task,"Duplicate Detection, Stance detection, answer selection, cognate detection, fake news detection, stance detection, stress detection",2024
+Task_france,Task,"FRAGE, FSRE, RARE, Trac",2018
+Task_gpt,Task,"GTA, MPT",2023
+Task_information_extraction,Task,"Information Extraction, Relation Extraction, biomedical relation extraction, citation text generation, hallucination detection, information extraction, lation Detection, misinformation detection, negation detection, relation detection, relation extracti, relation extraction",2024
+Task_information_retrieval,Task,Information Retrieval,2017
+Task_intelligent_agents,Task,Intelligent Tutor,2024
+Task_intent_recognition,Task,"Chinese Text Correction, Intent Detection, Link Prediction, intent detection, ion prediction, link prediction",2023
+Task_knowledge_graphs,Task,Knowledge Tracing,2022
+Task_knowledge_representation,Task,Abstract Meaning Representation,2024
+Task_language_models,Task,LMs,2024
+Task_large_language_models,Task,"Masked Language Modeling, Tiny Language Models, language modelling, masked language modeling, masked language modeling task",2020
+Task_law_revisions,Task,Vision,2024
+Task_learning,Task,"Benchmarking, Learning, Pre-Training, Re-ranking, reasoning",2022
+Task_legal_document_retrieval,Task,"Legal Judgment Prediction, document retrieval",2024
+Task_logic_programming,Task,Programme,1999
+Task_lstm,Task,LTGM,2023
+Task_machine_reading_comprehension,Task,"Machine reading comprehension, Reading Comprehension, machine reading comprehension",2024
+Task_machine_translation,Task,"Machine Translation, Neural Machine Translation, Speech Translation, Updated Transformation, machine translation, machine translation task, multimodal machine translation, neural machine translation, translation",2024
+Task_modularization,Task,"Summarization, document summarization, summarization, ummarization",2022
+Task_morphology,Task,morphology,2020
+Task_n_grams,Task,RAS,2022
+Task_natural,Task,"Natura, Neutral",2021
+Task_natural_language_generation,Task,"General Language Understanding Evaluation, Language Identification, Language Understanding, Natural Language Generation, Natural Language Understanding, Natural Questions, Spoken Language Understanding, argument generation, language identification, literature review generation, natural language generation, natural language understanding, offensive language detection, retrieval augmented generation, spoken language understanding, story generation",2024
+Task_natural_language_inference,Task,"Language Inference, Natural Language Inference, natural language inference",2021
+Task_natural_language_processing,Task,"Computer Vision and Natural Language Processing, LP, NLP, NLP Tasks, NLP task, NLP tasks, Natural Language Processing, downstream natural language processing, guage processing, natural language processing, nguage Processing",2024
+Task_navigation,Task,"Addition, Navigation, Variationist",2022
+Task_neural_network,Task,Neural Attention,2025
+Task_ontologies,Task,ontology alignment,2024
+Task_ontology,Task,word-analogy,2015
+Task_parsing,Task,"Marking, parsing, parsing task",2024
+Task_proving,Task,"Prompt-Tuning, Prompt Tuning, Voting, probing tasks",2024
+Task_question_answering,Task,"Knowledge Base Question Answering, Question-Answering, Question-Answering System, Question Answering, Question and Answer, Visual Question Answer, Visual Question Answering, Visual question answering, ase-Indexed Question Answering, closed-book question answering, question-answering, question answer, question answering, question generation, visual question answering",2021
+Task_recognizing_textual_entailment,Task,Recognizing Textual Entailment,2018
+Task_regular_expressions,Task,regression,2021
+Task_reinforcement_learning,Task,"Document Ranking, Reinforcement Learning from Human Feedback",2020
+Task_remodularization,Task,Lemmatization,2023
+Task_requirements_engineering,Task,Prompt Engineering,2024
+Task_robot,Task,Dropout,2022
+Task_semantic_analysis,Task,"Latent Semantic Analysis, Semantic Parsing, Semantic parsing, point cloud analysis, semantic matching",2018
+Task_semantic_retrieval,Task,"image-text retrieval, search and retrieval",2021
+Task_semantic_web,Task,"Semantic Role Labeling, Semantic Role Labelling, semantic role labeling",2017
+Task_semantics,Task,"MACS, Semantic Similarity, Semantic Tasks",2024
+Task_sentiment_analysis,Task,"Aspect-Based Sentiment Analysis, Sentiment Analysis, sentiment analysis",2022
+Task_simulation,Task,"Imitation, SimpleQuestions, fication, persuasion, slation",2023
+Task_speech_recognition,Task,"Automatic Speech Recognition, Hate Speech Detection, Speech Commands, Speech Emotion Recognition, Speech Recognition, hate speech detection, paraphrase recognition, speech enhancement, speech recognition, speech recognition task",2022
+Task_speech_synthesis,Task,retrosynthesis,2021
+Task_synset,Task,SST,2025
+Task_text_analysis,Task,"Text S, alysis, pretext tasks",2018
+Task_text_categorization,Task,"Text Generation, Text Normalization, Text Summarization, Text summarization, text categorisation, text categorization, text privatization",2021
+Task_text_classification,Task,"Author Identification, Classification Tasks, Cross-Lingual Text Classification, Fact Verification, Identification, Intent Classification, Lexical Simplification, Long Document Classification, Multi-Label Text Classification, Sequence Classification, Text Classification, Text Simplification, Text classification, Topic Classification, audio classification, classification, classification task, detoxification, document classification, downstream classification tasks, hate speech classification, ification, image classification, intent classification, m classification, multivariate time series classification, question classification, sentence classification, sentiment classification, sequence classification, syntactic simplification, text classification, text classification and summarization, text classification task, text classification tasks, traffic classification",2013
+Task_text_mining,Task,"Entity Linking, text editing",2024
+Task_text_processing,Task,Depression,2024
+Task_tokenization_parts_of_speech_tagging,Task,"Part-Of-Speech Tagging, Part-of-Speech Tagging, Part of Speech Tagging, part-of-speech tagging",2020
+Task_transformer,Task,"Attention in Transformers, transfer",2025
+Task_translation_knowledge,Task,translation task,2024
+Task_twitter,Task,SIFTER,2023
+Task_umls,Task,Ms,2024
+Task_universal_information_extraction,Task,information retrieval and information extraction,2003
+Task_unstructured_data,Task,structured prediction,2022
+Task_visual_analysis,Task,log analysis,2025
+Task_vrml,Task,"RL, VL",2019
+Task_web_mining,Task,"Mining, bug fixing, debiasing",2014
+Task_word_sense_disambiguation,Task,"Entity Disambiguation, Word Sense Disambiguation, Word Sense Induction",2021
+Task_wordnets,Task,Word-in-Context,2024
+Task_xml,Task,"MLM, MTL",2020
+Technology_agent_architecture,Technology,"Neural Architecture Search, Transformer-based architectures, rchitecture",2020
+Technology_ai,Technology,"AGI, API, APIs, ATIS",2023
+Technology_artificial_intelligence,Technology,"AI, AI-assisted, AI-based, AI-generated, Artificial General Intelligence, Artificial Intelligen, Artificial Intelligence, Artificial intelligence, Explainable AI, Generative AI, Human-AI, artificial intelligence, generative AI",2024
+Technology_automatic_indexing,Technology,"Automatic Prompt Engineering, Topic Modeling",2024
+Technology_automation,Technology,"AutoML-GPT, GatorTron, Out-of-Domain",2023
+Technology_bert,Technology,"BART, BE, BERT, BERT-Base, BERTopic, BET, BEiT, BT, BeT, BioBERT, CA-BERT, ChemBERTa, CodeBERT, DSBERT, DeBERTa, DeBERTaV3, E-BERT, EmbBERT-Q, IMBERT, KB-BERT, LABDet, MT-BERT, MicroBERT, NAS-BERT, RT, RoBERTa, SMP-BERT, SciBERT, SciEdBERT, TABDet, VisBERT, YOCO-BERT, m-BERT, tiny-BERT, w2v-BERT",2021
+Technology_big_data,Technology,"Big Data, Big Tech",2016
+Technology_bioinformatics,Technology,Bioinformatics,2022
+Technology_chatbots,Technology,"CatBoost, Chat-GPT, ChatGPT, ChatSOS, ChatWords, EchoAtt",2024
+Technology_clinical_text,Technology,BioClinicalBERT,2022
+Technology_cognition,Technology,cation,2020
+Technology_computational,Technology,"Computing, DeepMutation, computational methods",2024
+Technology_computational_linguistics,Technology,"Computational Linguistics, computational linguistics",2020
+Technology_computer_science,Technology,"Cognitive Science, Computer, Computer Sc, Computer Science, Computer Vision, Open Science, computer graphics, computer vision",2021
+Technology_content_annotation,Technology,"Constraint Satisfaction, Counterfactual Data Augmentation",2022
+Technology_controlled_vocabulary,Technology,Out-of-Vocabulary,2017
+Technology_covid-19,Technology,"ArCOV-19, COVID-19",2020
+Technology_crowdsourcing,Technology,Crowd-Certain,2023
+Technology_data_analysis,Technology,Topological Data Analysis,2024
+Technology_data_mining,Technology,data formatting,2022
+Technology_dci,Technology,"BCI, DocNLI, DocOIE, MCI",2025
+Technology_deep_learning,Technology,"Deep Learning, Deep Learning-based, Deep Transfer Learning, Deep learning, Federated Learning, deep learning algorithms",2022
+Technology_dialogue,Technology,"Datalog, DiLogics, DialoGPT, MSDialog",2021
+Technology_dictionary,Technology,"ActionBert, Wiktionary",2020
+Technology_dom,Technology,"DCoM, DoT, IDM, OME",2021
+Technology_e-commerce,Technology,CommSense,2024
+Technology_embedding,Technology,"ELMo embedding, EMR-Merging, Embodied AI, GloVe embeddings, Word Embedding, Word Embeddings, word embeddings",2020
+Technology_entity_recognition,Technology,"Entity Recognition, Named-Entity Recognition, Named Entity Recognition, Named entity recognition",2017
+Technology_evaluation,Technology,Visualization,2023
+Technology_feature_selection,Technology,"Data Selection, Feature Engineering, reflection",2020
+Technology_france,Technology,"ACE, FrameNet, PACE, RAC, TREACLE",2024
+Technology_gpt,Technology,"AugGPT, BioGPT, CADgpt, GET, GP, GPT, GPT-2, GPT-3, GPT-3.5, GPT-4, GPT-4.0, GPT-4V, GPT-4o, GPT2, GPT3.5, GPT4, GPTZoo, GPT 3.5, GPU, GPs, GWT, HPC-GPT, IPT, NetGPT, OPT, OpenAI, OpenAIs, PET, SPT, SeqGPT, bGPT, mGPT",2023
+Technology_human-computer_interaction,Technology,"Human-Centric NLP, Human-Computer Interaction",2024
+Technology_human_computation,Technology,"Domain Adaptation, Quantum Computing, quantum computation, quantum computing",2022
+Technology_human_language_technologies,Technology,Language Technologies,2024
+Technology_information_extraction,Technology,"Information Extraction, Relation Extraction",2020
+Technology_information_retrieval,Technology,"Information Retrieval, Music Information Retrieval",2024
+Technology_information_systems,Technology,Intrusion Detection Systems,2019
+Technology_intelligence,Technology,"Intel Xeon, intelligence",2022
+Technology_intent,Technology,"BITE, ClinGen, ConText, FinTech, Intel, LINE, PiTest",2020
+Technology_internet,Technology,"DistanceNet, EfficientNet, INTERS, ImageNet, Internet, Internet-of-Things, Internet of Things, IrEne, KeNet, Painter, PonderNet, Text2Net, TrainerAgent, VL-InterpreT, VerbNet",2020
+Technology_knowledge,Technology,"Factual Knowledge, KnowDA, KnowledgeDA, KnowledgeVis, SecKnowledge, nowledgeVis",2022
+Technology_knowledge_graphs,Technology,"Knowledge Graph Embeddings, Knowledge Graphs, Knowledge graphs",2022
+Technology_knowledge_representation,Technology,"Knowledge Distillation, Knowledge Representation, Learning Representation",2023
+Technology_language,Technology,"Vision-Language, language",2023
+Technology_language_models,Technology,"LM, LMs",2024
+Technology_language_processing,Technology,VLP,2022
+Technology_large_language_models,Technology,"Embeddings from Language Models, LLM, Language Models, Large Language, Large Language Model, Large Language Models, Large Vision-Language Models, Masked Language Modeling, Masked Language Models, Multimodal Large Language Models, PLM, Pre-trained Language Models, Transformer-based Language Models, Vision-Language Models, language modeling",2019
+Technology_law_revisions,Technology,Vision,2023
+Technology_learning,Technology,"ArBanking77, L-Tuning, Ling",2023
+Technology_linguistics,Technology,"HolisticBias, Kinetics",2022
+Technology_logic_programming,Technology,"Answer Set Programming, Linear Programming, Logic Programming, Logistic Regression, Non-Linear Programming, Nonlinear Programming",2019
+Technology_lstm,Technology,"AWD-LSTM, B-LSTM, BLSTM, Bi-LSTM, BiLSTM, CLMSM, CNN-LSTM, Conv-LSTM, FltLM, LST, LSTM, LSTM-CRF, LSTM-RNN, LSTMs, LT, Leap-LSTM, QK-LSTM, STEM, SuBiLSTM, TM, Tree-LSTM, bi-LSTM, sLSTM, xLSTM, ystem",2019
+Technology_machine_learning,Technology,"Active Learning, Contrastive Learning, In-Context Learning, Machine Learning, Machine and Deep Learning, Machine learning, Multi-Task Learning, Multi-task Learning, Quantum Machine Learning, machine learning",2022
+Technology_machine_translation,Technology,"Back-Translation, Machine Translation, Statistical Machine Translation",2020
+Technology_medical_language_processing,Technology,Unified Medical Language System,2019
+Technology_morphology,Technology,ional Phonology,2002
+Technology_multilingual_corpora,Technology,Multilingual Transformers,2024
+Technology_multimodal_interfaces,Technology,Multimodal Learning,2022
+Technology_n_grams,Technology,"N-grams, NAS, Unigram",2023
+Technology_natural,Technology,"NatureLM, NeuralDB",2025
+Technology_natural_language,Technology,"Natural Language Pro, Nature Language",2023
+Technology_natural_language_generation,Technology,"Natural Language Understanding, Natural Questions, Retrieval-Augmented Generation",2023
+Technology_natural_language_processing,Technology,"BioNLP, LP, Language Processing, Legal NLP, NLP, NLP-assisted, NLP-based, NLPs, Natural L, Natural Lan, Natural Language, Natural Language Proc, Natural Language Processin, Natural Language Processing, Natural Language Processing and Machine Learning, Natural Language Processing methods, Natural language Processing, Neural NLP, Portuguese NLP, Spark NLP, Speech and Natural Language Processing, deep NLP, natural language processing, natural language processing tools, state-of-the-art NLP, uage processing",2023
+Technology_natural_language_processing_systems,Technology,"Natural Language Processing Techniques, natural language processing techniques",2022
+Technology_natural_language_query,Technology,Neural Tangent Kernel,2023
+Technology_navigation,Technology,"NVIDIA Jetson, Variationist",2024
+Technology_neural_network,Technology,"Convolutional Neural Network, Graph Neural Network, Hypernetwork, Neural Attention, Neural Network",2018
+Technology_neural_networks,Technology,"Artificial Neural Networks, Convolution Neural Networks, Convolutional Neural Networks, Deep Neural Networks, Generative Adversarial Networks, Graph Neural Networks, Hypernetworks, Neural Networks, Pointer Networks, Recurrent Neural Networks, deep neural networks",2021
+Technology_nlp,Technology,"EBM-NLP, LexNLP, ML-NLP, N-LTP, NLP-ML, NLP4All, OpenNLP, TEL-NLP, h-NLP",2024
+Technology_ontologies,Technology,OntoNotes,2019
+Technology_ontology,Technology,Ontology,2010
+Technology_parsing,Technology,"Ising, Pareto Testing, SparseIDS",2015
+Technology_privacy,Technology,"PIC, SpaCy, Spacy, spaCy",2024
+Technology_proving,Technology,"Poinc, PreConfig, Turing",2024
+Technology_reinforcement_learning,Technology,"Deep Reinforcement Learning, Graph Representation Learning, In-context Learni, Reinforcement Learning, Reinforcement Learning from Human Feedback",2024
+Technology_remodularization,Technology,Sparse Regularization,2023
+Technology_requirement_analysis,Technology,representational simil,2020
+Technology_requirements_engineering,Technology,Prompt Engineering,2023
+Technology_robot,Technology,"GOBO, ProtoTEx, RQBoost, ReWOO",2020
+Technology_search_engine_architecture,Technology,"Search Engines, deep learning architectures",2023
+Technology_semantic_analysis,Technology,"Latent Semantic Analysis, Probabilistic Latent Semantic Analysis, semantic parsing",2025
+Technology_semantic_web,Technology,"Semantic Folding, Semantic Web",2015
+Technology_semantics,Technology,"MACS, SemAIM, Sent-Debias",2024
+Technology_sentiment_analysis,Technology,sentiment analysis tools,2024
+Technology_simulation,Technology,MultiTok,2024
+Technology_social_media,Technology,Social-AI,2024
+Technology_social_network_analysis,Technology,Principal Component Analysis,2018
+Technology_social_networks,Technology,"Graph Convolutional Networks, LSTM Networks, Prototypical Network",2024
+Technology_software_metrics,Technology,Software Engineering,2020
+Technology_spatial_language,Technology,adaptive language,2016
+Technology_speech_recognition,Technology,"Automatic Speech Recognition, Optical Character Recognition, automatic speech recognition",2018
+Technology_sponsored_search,Technology,Monte Carlo Tree Search,2023
+Technology_statistical_analysis,Technology,"Statistical, Statistics",2023
+Technology_support_vector_machines,Technology,"Support Vector Mach, Support Vector Machine, Support Vector Machines",2024
+Technology_synset,Technology,"CSST, CapsNet, ExSSNeT, KNET, QuesNet, ResNet, SNNs, SpanSeq, SyGNS, SynSetExpan, Synapse",2023
+Technology_text_analysis,Technology,Error Analysis,2023
+Technology_text_classification,Technology,Text Classification,2023
+Technology_text_mining,Technology,"TextFlint, Text Mining, stemming",2023
+Technology_transformer,Technology,"AlgoFormer, AxFormer, Brainformer, CNN-Transformer, CrisisTransformers, DenseFormer, FasterTransformer, Graph2Graph Transformer, Graph Transformer, Graph Transformers, Image Transformers, Linformer, MASFormer, MutFormer, NxMTransformer, SELFormer, Sentence Transformers, Star-Transformer, SubFormer, TegFormer, TensorLayer, Tokenphormer, Trans-Encoder, TransforMesh, Transformer, Transformer-CNN, Transformer-Patcher, Transformer-XL, Transformer-based, Transformer-based LLMs, Transformer Encoder, Transformers, Transformers and LLMs, VertiFormer, Vision Transformer, Vision Transformers, Visual Transformers, X-Former, transform",2024
+Technology_twitter,Technology,"Tkinter, TwinBERT, Twitter, Twitter API, twitter",2024
+Technology_uml,Technology,"AutoML, UMD",2022
+Technology_umls,Technology,"M2Lens, MLLMs, MLMs, MLOps, MVLMs, UMLS, mPLMs",2021
+Technology_unstructured_data,Technology,"InstructDial, StructuralLM",2022
+Technology_ux,Technology,Unix,2023
+Technology_validity,Technology,"AidUI, ViTALiTy",2023
+Technology_virtual_environments,Technology,"Virtual Reality, Visual Genome",2024
+Technology_visual_analysis,Technology,Visual Analytics,2022
+Technology_vrml,Technology,"AIvril, RFML, RL, VL, VR",2024
+Technology_web_intelligence,Technology,Web of Science,2020
+Technology_web_mining,Technology,Gemini,2024
+Technology_wikipedia,Technology,"WikiBio, WikiRevHist, Wikimedia, Wikipedia",2021
+Technology_word_vectors,Technology,"Word2Vec, Word2vec, word2vec",2021
+Technology_wordnets,Technology,"ConvNets, ResNets, SortedNet, Word-in-Context, WordNet",2020
+Technology_world_wide_web,Technology,WordPiece,2023
+Technology_xml,Technology,"MDL, MLM, MLP, MTL, MoL, QML, XMD, XML",2023
+Technology_xml_processing,Technology,"Image Processing, ProcessGPT",2023
