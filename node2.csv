@@ -1,0 +1,51 @@
+id,name,type
+1,natural language processing,Technology
+2,machine learning,Technology
+3,deep learning,Technology
+4,artificial intelligence,Technology
+5,chatbots,Method
+6,sentiment analysis,Method
+7,bert,Method
+8,text mining,Method
+9,text classification,Task
+10,sentiment analysis task,Task
+11,social media,Task
+12,twitter,Task
+13,covid-19,Task
+14,large language models,Technology
+15,neural networks,Technology
+16,electronic health records,Task
+17,feature selection,Method
+18,entity recognition,Method
+19,use case diagram,Method
+20,task analysis,Method
+21,machine reading comprehension,Method
+22,text mining tools,Method
+23,usability,Task
+24,text classification task,Task
+25,business vocabulary,Task
+26,wordnets,Method
+27,n grams,Method
+28,sql query,Method
+29,natural language query,Method
+30,tokenization parts of speech tagging,Method
+31,chatgpt,Method
+32,large-scale pretraining,Method
+33,conversational AI,Task
+34,dialogue systems,Task
+35,reinforcement learning,Technology
+36,zero-shot learning,Technology
+37,transfer learning,Technology
+38,few-shot learning,Technology
+39,automated text summarization,Task
+40,information retrieval,Task
+41,transformer,Technology
+42,text-to-speech,Technology
+43,speech recognition,Technology
+44,domain-specific models,Technology
+45,augmented reality,Technology
+46,computer vision,Technology
+47,intent recognition,Task
+48,question answering,Task
+49,voice assistants,Method
+50,semantic search,Method
