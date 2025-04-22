@@ -27,49 +27,26 @@ id,name,type
 26,2022,Year
 27,2023,Year
 28,2024,Year
-29,gesture recognition,Technology
-30,speech recognition,Technology
-31,distributed interactive simulation,Technology
-32,autonomous agents,Technology
-33,vrml,Technology
-34,virtual environments,Technology
-35,text categorization,Technology
-36,dialogue systems,Technology
-37,knowledge representation,Technology
-38,information retrieval,Technology
-39,parsing,Technology
-40,information extraction,Technology
-41,machine translation,Technology
-42,semantics,Technology
-43,algorithms,Technology
-44,controlled vocabulary,Technology
-45,morphology,Technology
-46,intelligent agents,Technology
-47,ontologies,Technology
-48,artificial intelligence,Technology
-49,nlp systems,Technology
-50,automatic indexing,Technology
-51,statistical analysis,Technology
-52,machine learning,Technology
-53,automation,Technology
-54,pay-per-click,Technology
-55,text mining,Technology
-56,umls,Technology
-57,word sense disambiguation,Technology
-58,social network analysis,Technology
-59,software metrics,Technology
-60,software quality,Technology
-61,crowdsourcing,Technology
-62,human computation,Technology
-63,education technology,Technology
-64,mathematical logic,Technology
-65,quantifier elimination,Technology
-66,question answering,Technology
-67,deep learning,Technology
-68,natural language inference,Technology
-69,social media,Technology
-70,data mining,Technology
-71,intent recognition,Technology
-72,n grams,Technology
-73,chatbots,Technology
-74,large language models,Technology
+29,machine learning,Technology
+30,deep learning,Technology
+31,gesture recognition,Method
+32,speech recognition,Method
+33,text categorization,Method
+34,information retrieval,Method
+35,parsing,Method
+36,machine translation,Method
+37,algorithms,Method
+38,intelligent agents,Method
+39,artificial intelligence,Method
+40,question answering,Method
+41,semantic analysis,Method
+42,ontology,Method
+43,chatbots,Method
+44,word sense disambiguation,Method
+45,sentiment analysis,Method
+46,nlp systems,Method
+47,control vocabulary,Task
+48,software quality,Task
+49,crowdsourcing,Task
+50,education technology,Task
+51,sentiment,Task
